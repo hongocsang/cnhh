@@ -1,0 +1,68 @@
+Bài 1: Thành phần nguyên tử
+
+I- THÀNH PHẦN CẤU TẠO CỦA NGUYÊN TỬ
+Từ các nghiên cứu thực nghiệm của các nhà khoa học đã chứng minh thành phần cấu tạo của nguyên tử gồm:
+
+1. Hạt nhân nguyên tử
+Mọi nguyên tử đều câu tạo từ ba loại hạt : proton, nơtron và electron.
++ Hạt nhân nguyên tử nằm ở tâm nguyên tử, gồm các hạt proton mang điện dương (1+) và nơtron không mang điện, hai loại hạt này có khối lượng gần bằng nhau và xấp xỉ bằng 1u (u còn được gọi là đvC).
++ Hầu hêt khôi lượng nguyên tử đầu tập trung ở nhân mặc dù hạt nhân chỉ chiếm một phần rất nhỏ thể tích của nguyên tử.
+
+2. Lớp vỏ electron của nguyên tử
+- Lớp vỏ của nguyên tử gồm các electron mang điện âm, chuyển động trong không gian xung quanh hạt nhân.
+- Vì nguyên tử trung hòa về điện, nên trong bất kì nguyên tử nào số hạt electron cũng bằng sô' hạt proton.
+        Số p = số e
+- Trong nguyên tử các electron được sắp xếp thành từng lớp, các lớp được sắp xếp từ trong ra ngoài.
+- Lớp và phân lớp electron.
+
+3. Sự phân bố electron trong nguyên tử
+a) Năng lượng của electron trong nguyên tử
+- Mức năng lượng obitan nguyên tử
++ Trong nguyên tử, các electron trên mỗi obitan có một mức năng lượng xác định, mức năng lượng này là mức năng lượng obitan (mức năng lượng AO).
++ Các electron trên các obitan khác nhau của cùng, một phân lớp có năng lượng như nhau.
+
+- Thứ tự các mức năng lượng trong nguyên tử
+Mức năng lượng của các lớp tăng theo thứ tự từ 1 đến 7 kể từ gần hạt nhân nhất và của phân lớp tăng theo thứ tự s, p, d, f.
+Mức năng lượng của các phân lớp tăng theo thứ tự sau : ls 2s 2p3s 3p4s 3d4p5s 4d5p6s ...
+Trong nguyên tử, các electron lần lượt chiếm các obitan, có mức năng lượng từ thấp đến cao, phải đầy mức năng lượng thấp, mới tiếp vào các mức năng lượng cao. Đầy mức s là 2e, đầy mức p là 6e, đầy mức d là 10e, đầy mức f là 14e.
+
+b) Cấu hình electron của nguyên tử
+Cấu hình electron của nguyên tử dùng đố mô tả các electron phân bố như thế nào trong các lớp, phân lớp của nguyên tử.
+Người ta quy ước như sau :
+- Số thứ tự lớp electron được ghi bằng chữ cái 1, 2, 3, ...
+- Phân lớp được ghi bằng chữ cái thường s, p, d, f.
+- Số electron được ghi bằng số ở phía bên phải của phân lớp.
+
+c) Đặc điểm của lớp electron ngoài cùng
+- Đối với nguyên tử của mọi nguyên tố, lớp electron ngoài cùng có tối đa 8 electron (trừ He).
+- Các nguyên tử khí hiếm (trừ He) đều có lớp electron ngoài cùng 8e (ns2 np6). Đó là cấu hình electron bão hòa bền vững.
+- Các nguyên tử có 1, 2, 3 electron ở lớp ngoài cùng là các kim loại. Các nguyên tử có 5, 6, 7 electron ở lớp ngoài cùng thường là các phi kim.
+- Các nguyên tử có 4 electron ở lơpl ngoài cùng cũng có thể là các kim loại hay phi kim.
+- Trong các phản ứng hoá học, các nguyên tử có khuynh hướng hoặc nhường, hoặc nhận, hoặc góp chung electron để đạt cấu hình electron của khí hiếm (còn gọi là khí trơ).
+- Người ta gọi những electron có khả năng tham gia vào việc tạo thành liên kết hoá học là electron hoá trị.
+
+II. KHỐI LƯỢNG, KÍCH THƯỚC CỦA NGUYÊN TỬ
+1. Khối lượng nguyên tử
+- Nguyên tử có khối lượng vô cùng nhỏ, nếu tính bằng kg thì giá trị quá nhỏ. Khối lượng của 1 nguyên tử cacbon bằng 19,9206.10^(-27) kg, rất không tiện sử dụng.
+Vì thế nên trong hoá học dùng một đơn vị riêng để đo khối lượng nguyên tử.
+- Số đo khối lượng nguyên tử tính bằng u gọi là nguyên tử khối.
+- Nguyên tử khối (NTK) là con số so sánh khối lượng của nguyên tử với  khối lương nguyên tử cacbon.
+Thí dụ : khối lượng của 1 nguyên tử hiđro là l,6735.10^(-27)kg = lu.
+
+2. Kích thước nguyên tử
+Nếu coi như nguyên tử là một khôi cầu, thì đường kính của nguyên tử bằng khoảng 10-8 cm, còn đường kính của hạt nhân khoảng 10-12 cm.
+
+III. ĐIỆN TÍCH VÀ SỐ KHỐI CỦA HẠT NHÂN
+ 1. Điện tích hạt nhân
+Số đơn vị điện tích hạt nhân = số proton = số electron
+
+2. Số khối của hạt nhân
+- Số khối A của hạt nhân bằng tổng số hạt proton (Z) và tổng số hạt nơtron (N).
+    A = Z + N
+- Proton và nơtron đều có khối lượng xấp xỉ 1u. Electron có khối lượng nhỏ hơn rất nhiều, nên một cách gần đúng có thể coi nguyên tử khối tính theo u có trị số bằng số khối của hạt nhân.
+
+3. Nguyên tố hoá học
+- Nguyên tố hoá học là tập hợp các nguyên tử có cùng điện tích hạt nhân.
+- Các nguyên tử của cùng một nguyên tố hoá học đều có cùng số proton và cùng số electron.
+- Những nguyên tử có cùng điện tích hạt nhân z và cùng số electron ở lớp vỏ nguỷên tử đều có tính chất hoá học giống nhau.
+----------------------------------------------------------------

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp"
+    tools:context="com.example.vuphu.project_hoa_hoc.LoginActivity">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:cardCornerRadius="16dp"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            android:padding="16dp">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:scaleType="centerCrop"
+                android:layout_marginBottom="50dp"
+                android:src="@mipmap/ic_logo"/>
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Email đăng nhập"
+                    android:layout_marginBottom="20dp"
+                    android:id="@+id/login_edtEmail"
+                    android:drawableLeft="@drawable/ic_perm_identity_black_24dp"
+                    android:drawablePadding="8dp"
+                    android:inputType="textEmailAddress"
+                    app:errorEnabled="true"/>
+            </android.support.design.widget.TextInputLayout>
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Mật khẩu"
+                    android:drawableLeft="@drawable/ic_lock_black_24dp"
+                    android:drawablePadding="8dp"
+                    android:id="@+id/login_edtPass"
+                    android:inputType="textPassword"
+                    app:errorEnabled="true"/>
+            </android.support.design.widget.TextInputLayout>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                style="@style/Widget.AppCompat.Button.Colored"
+                android:text="@string/btn_Login_Dangnhap"
+                android:id="@+id/login_btnLogin"
+                android:onClick="login"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="@string/Login_tv_dangki"
+                android:layout_marginTop="5dp"
+                android:onClick="signUp"
+                android:id="@+id/login_tvSingUp"
+                android:textColorLink="@color/colorPrimaryDark"
+                android:textIsSelectable="true"/>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

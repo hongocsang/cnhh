@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorPrimary"
+    android:gravity="center"
+    tools:context="com.example.vuphu.project_hoa_hoc.TracNghiemActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/linear1"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:visibility="gone">
+
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:layout_marginTop="10dp"
+            app:cardCornerRadius="16dp"
+            android:layout_gravity="center">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/black"
+                android:padding="8dp"
+                android:textSize="18dp"
+                android:text="@string/textTN"/>
+        </android.support.v7.widget.CardView>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:text="Làm bài"
+            android:id="@+id/Continue"
+            android:onClick="DongY"
+            android:layout_gravity="end"
+            />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/sroll"
+        android:alwaysDrawnWithCache="true">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:id="@+id/linear2">
+            <android.support.v7.widget.RecyclerView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:id="@+id/list_CHTN"
+                tools:listitem="@layout/item_row_tracnghiem">
+
+            </android.support.v7.widget.RecyclerView>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                style="@style/Widget.AppCompat.Button.Colored"
+                android:text="Nộp bài"
+                android:id="@+id/finish"
+                android:onClick="Finish"
+                android:layout_margin="10dp"
+                android:layout_gravity="end"
+                />
+        </LinearLayout>
+    </ScrollView>
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="vertical"
+       android:id="@+id/ketqua"
+       android:visibility="gone">
+       <android.support.v7.widget.CardView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_gravity="center"
+           android:layout_margin="10dp"
+           app:cardPreventCornerOverlap="true"
+           app:cardElevation="16dp"
+           app:cardCornerRadius="16dp">
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:orientation="vertical"
+               android:layout_margin="10dp">
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_gravity="center"
+                   android:text="Kết quả"
+
+                   android:textAlignment="center"
+                   android:textColor="@color/colorAccent"
+                   android:textSize="50dp"
+                   />
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:id="@+id/diem"
+                   android:layout_gravity="center"
+                   android:text="10"
+                   android:textColor="@android:color/black"
+                   android:textAlignment="center"
+                   android:textSize="80dp"
+                   />
+           </LinearLayout>
+
+       </android.support.v7.widget.CardView>
+   </LinearLayout>
+
+
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,45 @@
+Bài 51: Dẫn xuất halogen của hiđrocacbon.
+1. Dẫn xuất halogen.
+
+a) Dẫn xuất loại ankyl halogenua phản ứng với nước ở nhiệt độ thường cũng như khi đun sôi, nhưng bị phân hủy khi đun nóng với dung dịch kiềm tạo thành ancol:
+    CH3CH2X + NaOH → CH3CH2OH + NaX
+
+b) Phản ứng tách.
+Khi đun với dung dịch kiềm trong ancol, dẫn xuất halogen bị tách HCl tạo thành liên kết bội.
+
+1. Định nghĩa , phân loại, đồng phân, danh pháp.
+- Ancol là những hợp chất hữu cơ mà phân tử có nhóm hidroxyl (OH) liên kết trực tiếp với nguyên tử cacbon no, công thức R(OH)
+
+- Phân loại :
+
++ Theo gốc hidrocacbon: có ancol no, ancol không no, ancol thơm.
++ Theo số lượng nhóm hidroxyl: ancol đơn chức, ancol đa chức.
++ Bậc của ancol = bậc của nguyên tử C liên kết với nhóm OH.
+
+- Đồng phân: Đồng phân nhóm chức, đồng phân mạch cacbon, đồng phân vị trí nhóm OH, đồng phân vị trí liên kết bội, đồng phân hình học nối đôi.
+- Danh pháp:
+
++ Danh pháp loại chức: Ancol + Tên gốc hidrocacbon + ic
++ Tên thay thế: Tên hidrocacbon tương ứng theo mạch chính + số chỉ vị trí + ol
+
+2. Tính chất vật lí
+Các ancol từ C1 đến khoảng C12 ở điều kiện thường là chất lỏng, từ C1 đến C3 tan vô hạn trong nước.
+Nhiệt độ nóng chảy, nhiệt độ sôi, độ tan trong nước của ancol đều cao hơn so với các hidrocacbon có khối lượng mol phân tử tương đương, do tạo kên kiên kết hidro giữa các phân tử ancol với nhau và giữa các phân tử ancol với nước.
+
+3. Tính chất hóa học
+a) Phản ứng thế nguyên tử H trong nhóm OH
+- Ancol tác dụng với kim loại kiềm  M tạo ra ancolat. Phản ứng này  chứng tỏ phân tử ancol có nguyên tử hidro linh động.
+- Phản ứng riêng của glixerol: tác dụng với Cu(OH)2 tạo phức chất tan có màu xanh lam rất đặc trưng.
+
+b) Phản ứng thế nhóm OH
+- Phản ứng với axit vô cơ mạnh như HX, HNO3, H2SO4…
+R-OH + HA → R-A + H2O ( A là: Hal, ONO2…)
+- Phản ứng với ancol tạo ete: R- OH + HO- R’ → R- O- R’ + H2O
+
+c) Phản ứng tách nước
+Ancol khi tác dụng với H2SO4 đặc, đun nóng ở nhiệt độ 1700C cho phản ứng tách nước tương tự như phản ứng tách HX từ dẫn xuất halogen.
+
+d) Phản ứng oxi hóa
+- Oxi hóa không hoàn toàn: Khi oxi hóa nhẹ thì ancol bậc 1 tạo anđehit ancol bậc 2 tạo xeton, ancol bậc 3 không phản ứng.
+Ví dụ: R- CH2OH + CuO →  R- CuO + Cu +  H2O
+- Oxi hóa hoàn toàn: Ancol cháy tạo ra khí cacbonic, hơi nước và tỏa nhiều nhiệt

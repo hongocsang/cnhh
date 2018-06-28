@@ -1,0 +1,116 @@
+Bài 15: Tính chất vật lí của kim loại.
+
+1. TÍNH DẺO
+Kim loại có tính dẻo.
+Nhờ có tính dẻo, kim loại có thể dát mỏng, kéo thành sợi,... tạo nên các đồ vật khác nhau.
+Các kim loại khác nhau có độ dẻo khác nhau. Những kim loại có tính dẻo cao là Au, Ag, Al, Cu, Sn,...
+
+2. TÍNH DẪN ĐIỆN
+Kim loại có tính dẫn diện.
+Nhờ có tính dẫn điện mà một sô kim loại được sử dụng làm dây dẫn điện. Các kim loại khác nhau có khả năng dẫn điện khác nhau. Những kim loại dẫn điện tốt nhất là Ag, Cu, Al, Fe,...
+
+3. TÍNH DẪN NHIỆT
+Kim loại có tính dẫn nhiệt.
+Nhờ có tính dẫn nhiệt mà một số kim loại được dùng để làm dụng cụ nấu ăn.
+Kim loại nào dẫn điện tốt thường cũng dẫn nhiệt tốt.
+
+4. ÁNH KIM
+Kim loại có ánh kim (vẻ sáng lấp lánh).
+Nhờ có ánh kim mà một số kim loại được dùng làm đồ trang sức, như vàng, bạc..
+----------------------------------------------------------------
+Bài 16: Tính chất hoá học của kim loại.
+
+I. TÍNH CHẤT HÓA HỌC CỦA KIM LOẠI
+1. Tác dụng với phi kim
+a) Tác dụng với oxi: Hầu hết kim loại (trừ Au, Pt, Ag,...) tác dụng với oxi ở nhiệt độ thường hoặc nhiệt độ cao, tạo thành oxit.
+b) Tác dụng với phi kim khác (Cl.,, S,...): Nhiều kim loại tác dụng với nhiều phi kim, tạo thành muối.
+
+2. Tác dụng với dung dịch axit
+Nhiều kim loại tác dụng với dung dịch axit (HCl,...) tạo thành muối và H2.
+
+3. Tác dụng với dung dịch muối
+Kim lọại hoạt dộng mạnh hơn (trừ Na, K, Ba,...) tác dụng với muối của kim loại yếu hơn, tạo thành muối và kim loại mới.
+----------------------------------------------------------------
+Bài 17: Dãy hoạt động hoá học của kim loại.
+
+1. Dãy hoạt động hóa học của kim loại là dãy các kim loại được sắp xếp theo chiều giàm dần mức độ hoạt động hóa học của chúng.
+Dãy hoạt động của một số kim loại:
+K, Na, Mg, Al, Zn, Fe, Pb, (H), Cu, Ag, Au
+
+2. Dãy hoạt động hóa học của kim loại cho biết:
+a) Mức độ hoạt động hóa học của các kim loại giảm dần từ trái sang phải.
+b) Những kim loại đứng trước Mg là những kim loại mạnh (K, Na, Ba,..), tác dụng với nước ở điều kiện thường tạo thành kiềm và giải phóng H2.
+----------------------------------------------------------------
+Bài 18: Nhôm.
+
+I. TÍNH CHẤT VẬT LÍ
+Nhôm là kim loại màu trắng bạc, dẻo, dẫn điện và dẫn nhiệt tốt. Nhôm là kim loại nhẹ (D = 2,7 g/cm3), mềm, nóng chảy ở 660°c.
+
+II. TÍNH CHẤT HÓA HỌC
+1. Tính chất của một kim loại
+a) Tác dụng với oxi và một số phi kim.
+b) Tác dụng với axit (HCl, H2SO4 loãng,..)
+Chú ý: Nhôm không tác dụng với H,SO4, HNO3 đặc, nguội,
+e) Tác dụng với dung dịch muối của kim loại yếu hơn.
+
+2. Tính chất hóa học riêng của nhôm.
+Do lớp oxit nhôm bị hòa tan trong kiềm nên nhôm phản ứng với dung dịch kiềm.
+
+III. SẢN XUẤT NHÔM
+Nguyên liệu để sản xuất nhôm là quặng bôxit có thành phần chủ yếu là Al2O3. Sau khi đã loại bỏ tạp chất, rigười ta điện phân Al2O3 nóng chảy (có pha thêm chất criolit có tác dụng làm giảm nhiệt dộ nóng chảy của nhôm oxit), thu được nhôm.
+----------------------------------------------------------------
+Bài 19: Sắt.
+
+I. TÍNH CHẤT VẬT LÍ
+Sắt là kim loại màu trắng xám, khi ỗ dạng bột có màu đen. Sắt có tính nhiễm từ (bị nam châm hút và sắt cũng có thể nhiễm từ trở thành nam châm). Khối lượng riêng D = 7,86g/cm3, nóng chảy ở 1539°c. Sắt dẻo nên dễ rèn.
+
+II. TÍNH CHẤT HÓA HỌC
+Sắt là kim loại có hóa trị II và III.
+
+1. Tác dụng với phi kim
+    a) Tác dụng với oxi.
+    b) Tác dụng với phi kim khác.
+
+2. Tác dụng với dung dịch axit:
+Sắt tác dụng với HCl, H2S04 loãng tạo thành muối sắt (II) và giải phóng Hg.
+Chú ỷ: Sắt không tác dụng với HN03, H2S04đặc, nguội.
+
+3. Tác dụng với dung dịch muối của kim loại yếu hơn sắt.
+----------------------------------------------------------------
+Bài 20: Hợp kim sắt: Gang, thép.
+
+I. HỢP KIM CỦA SẮT
+Hợp kim là chất rắn thu được sau khi làm nguội hỗn hợp nóng chảy của nhiều kim loại khác nhau hoặc của kim loại và phi kim.
+
+1. Gang
+Gang là hợp kim của sắt với cacbon, trong đó hàm lượng cacbon chiếm từ 2-5%, ngoài ra còn có một lượng nhỏ các nguyên tố khác như Si, Mn, s,... Gang cứng và dòn hơn sắt.
+Có hai loại gang: gang trắng và gang xám. Gang trắng dùng để luyện thép, gang xám dùng để đúc bệ máy, ống dẫn nước,...
+
+2. Thép
+Thép là hợp kim của sắt với cacbon và một số nguyên tố khác, trong đó hàm lượng cacbon chiếm dưới 2%.
+Thép có nhiều tính chất lí, hóa quý hơn sắt. Thép được dùng làm vật liệu xây dựng, chế tạo máy, dụng cụ lao độngr..
+
+II. SẢN XUẤT GANG, THÉP
+1. Sản xuất gang
+a) Nguyên liệu sản xuất gang là quặng sắt, thí dụ quặng manhetit (chứa Fe304), quặng hematit; than cốc (than đã được tinh chế); không khí giàu oxi và một số chất phụ gia khác như đá vôi CaCO3,...
+b) Nguyên tắc sản xuất gang: Dùng cacbon oxit khử oxit sắt ở nhiệt độ cao trong lò luyện kim.
+c) Quá trình sản xuất gang trong lò luyện kim (lò cao).
+
+2. Sản xuất thép
+- Nguyên liệu sản xuất thép là gang, sắt phế liệu, khí oxi.
+- Nguyên tắc sản xuất thép là oxi hóa một số kim loại, phi kim để loại ra khỏi gang phần lớn các nguyên tố cacbon, silic, mangan,...
+- Quá trình luyện thép được thực hiện trong lò Bet-xơ-me. Khí oxi oxi hóa các nguyên tố trong gang như C, Mn, Si,..
+Sản phẩm thu được là thép.
+----------------------------------------------------------------
+Bài 21: Sự ăn mòn kim loại và bảo vệ kim loại không bị ăn mòn.
+I. SỰ ĂN MÒN KIM LOẠI LÀ GÌ?
+Sự phá hủy kim loại, hợp kim do tác dụng hóa học trong môi trường được gọi là sự ăn mòn kim loại.
+
+II. NHỮNG YẾU TỐ NÀO ẢNH HƯỞNG ĐẾN SỰ ĂN MÒN KIM LOẠI?
+a) Ảnh hưởng của các chất trong môi trường: Sự ăn mòn kim loại xảy ra nhanh hay chậm phụ thuộc vào thành phần của môi trường mà nó tiếp xúc.
+b) Ảnh hưởng của nhiệt độ: nhiệt độ càng cao sự ăn mòn kim loại xảy ra càng nhanh.
+
+III. NHỮNG BIỆN PHÁP BẢO VỆ CÁC ĐỒ VẬT KIM LOẠI KHÔNG BỊ ĂN MÒN
+a) Ngăn không cho kỉm loại tiếp xúc với môi trường
+b) Sơn, mạ, bôi dầu mỡ... lên trên bề mặt kim loại. Để đồ vật nơi khô ráo,thường xuyên lau chùi sạch sẽ sau khi sử dụng cũng làm cho kim loại bị ăn mòn chậm hơn.
+c) Chế tạo hợp kim ít bị ăn mòn

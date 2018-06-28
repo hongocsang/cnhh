@@ -1,0 +1,13 @@
+Bài 17: Vị trí của kim loại trong bảng tuần hoàn và cấu tạo của kim loại.
+Trong bảng tuần hoàn có gần 90 nguyên tố kim loại.
+Các nguyên tố kim loại có mặt ở: nhóm IA (trừ hiđrô);
+nhóm IIA, nhóm IIIA (trừ bố) và một phần nhóm IVA, VÀ, VỈA; các nhóm B (từ IB đến VIIIB);
+họ lantan và actini được xếp riêng thành 2 hàng ở cuối bảng.
+
+- Hầu hết đều có êlectron ở lớp ngoài cùng (1, 2 hoặc 3 êlectron).
+- Cấu tạo mạng tinh thể kim loại:
++ Mạng tinh thể lục phương có độ đặc khít 74%.
++ Mạng tinh thể lập phương tâm diện có độ đặc khít 74%.
++ Mạng tinh thể lập phương tâm khối có độ đặc khít 68%.
+
+- Liên kết kim loại: là liên kết được hình thành giữa các nguyên tử và ion kim loại trong mạng tinh thêt do sự tham gia của êlectron tự do.

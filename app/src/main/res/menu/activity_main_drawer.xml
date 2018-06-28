@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+<item
+    android:title="Tiện ích">
+   <menu>
+      <item
+          android:title="Bảng tính tan"
+          android:icon="@drawable/ic_colorize_black_24dp"
+          android:id="@+id/menu_tinhTan"
+          ></item>
+      <item
+          android:title="Dãy hoạt động kim loại"
+          android:icon="@drawable/lab"
+          android:id="@+id/menu_KimLoai"
+          ></item>
+
+      <item
+          android:title="Chất hóa học"
+          android:icon="@drawable/elements"
+          android:id="@+id/menu_chat_hoa_hoc"></item>
+   </menu>
+
+
+</item>
+   <item
+       android:title="Trợ thủ">
+      <menu>
+         <item
+             android:title="Thêm câu hỏi"
+             android:icon="@drawable/ic_add_circle_outline_black_24dp"
+             android:id="@+id/menu_add_cau_hoi"></item>
+         <item
+             android:title="Thêm bài tập"
+             android:icon="@drawable/ic_add_circle_outline_black_24dp"
+             android:id="@+id/menu_add_bai_tap"></item>
+         <!--<item-->
+             <!--android:title="Bài tập"-->
+             <!--android:icon="@drawable/ic_library_books_black_24dp"-->
+             <!--android:id="@+id/menu_bai_tap"></item>-->
+      </menu>
+   </item>
+
+   <item
+       android:title="Thông tin">
+      <menu>
+         <item
+             android:title="Hỗ trợ"
+             android:icon="@drawable/ic_perm_identity_black_24dp"
+             android:id="@+id/menu_info">
+         </item>
+         <item
+             android:title="Đăng xuất"
+             android:icon="@drawable/ic_input_black_24dp"
+             android:id="@+id/menu_log_out"></item>
+      </menu>
+   </item>
+</menu>

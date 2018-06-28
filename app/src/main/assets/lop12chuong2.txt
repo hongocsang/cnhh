@@ -1,0 +1,170 @@
+Bài 5+6:
+I. Lý thuyết về cacbohiđrat
+1. ĐỊNH NGHĨA
+- Cacbohiđrat (còn gọi là gluxit hoặc saccarit)là những HCHC tạp chức thường có công thức chung là Cn(H2O)m
++có chứa nhiều nhóm OH và nhóm cacbonyl (anđehit hoặc xeton) trong phân tử.
+- Gluxit được chia thành 3 loại thường gặp là:
+ + Monosaccarit: glucozơ, fructozơ có CTPT là C6H12O6.
+ + Đisaccarit: saccarozơ và mantozơ có CTPT là C12H22O11.
+ + Polisaccarit: xenlulozơ và tinh bột có CTPT là (C6H10O5)n.
+
+Khi đốt cháy gluxit chú ý:
++ nO2 = nCO2
++ Dựa vào tỷ lệ số mol CO2/số mol H2O để tìm loại saccarit.
+
+II. GLUCOZƠ
+- Công thức phân tử C6H12O6.
+- Công thức cấu tạo CH2OH - (CHOH)4 - CHO.
+- Glucozơ tồn tại ở cả hai dạng mạch hở và mạch vòng (dạng α là 36% dạng β là 64%):
+
+1. Tính chất vật lí và trạng thái tự nhiên
+- Là chất rắn, không màu, tan tốt trong nước, độ tan trong nước tăng khi nhiệt độ tăng.
+- Có vị ngọt kém đường mía.
+- Có nhiều trong các loại hoa quả: quả nho, mật ong (30%), máu người (0,1%)
+
+2. Tính chất hóa học
+-Trong phân tử glucozơ có 5 nhóm OH nằm liền kề và 1 nhóm CHO nên glucozơ có các phản ứng của ancol đa chức và của anđehit.
+
+a. Các phản ứng của ancol đa chức
+- Hòa tan Cu(OH)2 ở ngay nhiệt độ thường tạo thành dung dịch màu xanh lam.
+2C6H12O6 + Cu(OH)2 → (C6H11O6)2Cu + 2H2O
+→ Phản ứng này chứng minh glucozo có nhiều nhóm OH
+
+- Tác dụng với anhiđrit axit tạo thành este 5 chức:
+CH2OH(CHOH)4CHO + 5(CH3CO)2O → CH3COOCH2(CHOOCCH3)4CHO + 5CH3COOH
+→ Phản ứng này dùng để chứng minh trong phân tử glucozơ có 5 nhóm OH.
+
+b. Các phản ứng của anđehit
+- Tác dụng với H2 tạo thành ancol sobitol (sobit):
+CH2OH(CHOH)4CHO + H2 → CH2OH(CHOH)4CH2OH (Ni, t0)
+
+- Tác dụng với AgNO3/NH3 tạo thành Ag (phản ứng tráng gương)
+CH2OH(CHOH)4CHO + 2AgNO3 + 3NH3 + H2O → CH2OH(CHOH)4COONH4 + 2Ag + 2NH4NO3
+
+- Phản ứng với Cu(OH)2 ở nhiệt độ cao:
+CH2OH(CHOH)4CHO + 2Cu(OH)2 + NaOH → CH2OH(CHOH)4COONa + Cu2O + 3H2O
+
+- Phản ứng làm mất màu dung dịch Brom:
+CH2OH(CHOH)4CHO + Br2 + H2O → CH2OH(CHOH)4COOH + 2HBr
+→ Các phản ứng này chứng tỏ glucozơ có nhóm CHO.
+
+c. Phản ứng lên men
+C6H12O6 → 2CO2 + 2C2H5OH
+
+d. Phản ứng với CH3OH/HCl tạo metylglicozit
+- Chỉ có nhóm OH hemiaxetal tham gia phản ứng.
+→ Phản ứng này chứng tỏ glucozo có dạng mạch vòng.
+
+- Sau phản ứng nhóm metylglicozit không chuyển trở lại nhóm CHO nên không tráng gương được.
+Ngoài ra khi khử hoàn toàn glucozơ thu được n-hexan chứng tỏ glucozơ có mạch 6C thẳng.
+
+3. Điều chế
+- Thủy phân saccarozơ, tinh bột, mantozơ, xenlulozơ:
++ Mantozơ:
+C12H22O11 + H2O → 2C6H12O6 (glucozơ)
+
++ Tinh bột và xenlulozơ:
+(C6H10O5)n + nH2O → nC6H12O6
+
++ Saccarozơ:
+C12H22O11 + H2O → C6H12O6 (glucozơ) + C6H12O6 (fructozơ)
+
+- Trùng hợp HCHO:
+6HCHO → C6H12O6 (Ca(OH)2, t0)
+
+III. FRUCTOZƠ
+- Công thức phân tử C6H12O6.
+- Công thức cấu tạo CH2OH - CHOH - CHOH - CHOH - CO - CH2OH.
+- Trong dung dịch, frutozơ tồn tại chủ yếu ở dạng β, vòng 5 hoặc 6 cạnh:
+
+1. Tính chất vật lí và trạng thái tự nhiên
+- Là chất rắn kết tính, dễ tan trong nước.
+- Vị ngọt hơn đường mía.
+- Có nhiều trong hoa quả và đặc biệt trong mật ong (40%)
+
+2. Tính chất hóa học
+* Vì phân tử fructozơ chứa 5 nhóm OH trong đó có 4 nhóm liền kề và 1 nhóm chức C = O nên có các tính chất hóa học của ancol đa chức và xeton.
+- Hòa tan Cu(OH)2 ở ngay nhiệt độ thường.
+- Tác dụng với anhiđrit axit tạo este 5 chức.
+- Tác dụng với H2 tạo sobitol.
+- Trong môi trường kiềm fructozơ chuyển hóa thành glucozơ nên fructozơ có phản ứng tráng gương, phản ứng với Cu(OH)2 trong môi trường kiềm. Nhưng fructozơ không có phản ứng làm mất màu dung dịch Brom.
+
+IV. SACCAROZƠ
+- Công thức phân tử C12H22O11.
+- Công thức cấu tạo: hình thành nhờ 1 gốc α - glucozơ và 1 gốc β - fructozơ bằng liên kết 1,2-glicozit:
+
+1. Tính chất vật lí và trạng thái tự nhiên
+- Là chất kết tinh, không màu, vị ngọt, dễ tan trong nước.
+- Có nhiều trong tự nhiên trong mía, củ cải đường, hoa thốt nốt. Có nhiều dạng: đường phèn, đường phên, đường cát, đường tinh luyện…
+
+2. Tính chất hóa học
+ Do gốc glucozơ đã liên kết với gốc fructozơ thì nhóm chức anđehit không còn nên saccarozơ chỉ có tính chất của ancol đa chức.
+
+- Hòa tan Cu(OH)2 ở nhiệt độ thường tạo thành dung dịch màu xanh lam.
+- Phản ứng thủy phân:
+ C12H22O11 + H2O → C6H12O6 (glucozơ) + C6H12O6 (fructozơ)
+
+3. Điều chế
+Trong công nghiệp người ta thường sản xuất saccarozơ từ mía.
+
+V. MANTOZƠ
+- Công thức phân tử C12H22O11.
+- Công thức cấu tạo: được tạo thành từ sự kết hợp của 2 gốc α-glucozơ bằng liên kết α-1,4-glicozit:
+
+1. Tính chất hóa học
+ Do khi kết hợp 2 gốc glucozơ, phân tử mantozơ vẫn còn 1 nhóm CHO và các nhóm OH liền kề nên mantozơ có tính chất hóa học của cả Ancol đa chức và anđehit.
+
+a. Tính chất của ancol đa chức
+- Hòa tan Cu(OH)2 ở nhiệt độ thường tạo thành dung dịch màu xanh lam.
+
+b. Tính chất của anđehit
+- Mantozơ tham gia phản ứng tráng gương:
+C12H22O11 → 2Ag
+
+- Phản ứng với Cu(OH)2 ở nhiệt độ cao tạo kết tủa đỏ gạch Cu2O, với dung dịch Brom.
+
+c. Phản ứng thủy phân
+C12H22O11 + H2O → 2C6H12O6 (glucozơ)
+
+2. Điều chế
+Thủy phân tinh bột nhờ men amylaza có trong mầm lúa.
+
+VI. XENLULOZƠ (thường gọi là mùn cưa, vỏ bào)
+- Công thức phân tử (C6H10O5)n.
+- Công thức cấu tạo: do các gốc β-glucozơ liên kết với nhau bằng liên kết β-1,4-glicozit tạo thành mạch thẳng, mỗi gốc chỉ còn lại 3 nhóm OH tự do nên có thể viết công thức cấu tạo ở dạng [C6H7O2(OH)3]n
+
+1. Tính chất vật lí và trạng thái tự nhiên
+- Là chất rắn, hình sợi, màu trắng, không mùi, không vị.
+- Không tan trong nước ngay cả khi đun nóng, không tan trong các dung môi hữu cơ thông thường như ete, benzen...
+
+2. Tính chất hóa học
+- Phản ứng thủy phân
+(C6H10O5)n + nH2O → nC6H12O6 (glucozơ)
+
+- Phản ứng este hóa với axit axetic và axit nitric:
+[C6H7O2(OH)3] + 3nCH3COOH → [C6H7O2(OOCCH3)3]n + 3nH2O
+[C6H7O2(OH)3] + 3nHNO3 → [C6H7O2(ONO2)3]n + 3nH2O
+
+Từ xenlulozơ cho phản ứng với CS2 trong NaOH rồi phun qua dung dịch axit để sản xuất tơ visco.
+
+VII. TINH BỘT
+- Công thức phân tử (C6H10O5)n.
+- Công thức cấu tạo: tinh bột do các gốc α-glucozơ liên kết với nhau bằng liên kết α-1,4-glicozit tạo mạch thẳng (amilozơ) hoặc bằng liên kết α-1,4-glicozit và α-1,6-glicozit tạo thành mạch nhánh (amilopectin):
+
+1. Tính chất vật lí và trạng thái tự nhiên
+- Chất rắn vô định hình, không tan trong nước lạnh, phồng lên và vỡ ra trong nước nóng thành dung dịch keo gọi là hồ tinh bột.
+- Màu trắng.
+- Có nhiều trong các loại hạt (gạo, mì, ngô...), củ (khoai, sắn...) và quả (táo, chuối...).
+
+2. Tính chất hóa học
+- Phản ứng của hồ tinh bột với dung dịch I2 tạo thành dung dịch xanh tím. (nếu đun nóng dung dịch bị mất màu, để nguội màu xuất hiện trở lại).
+→ Phản ứng này thường được dùng để nhận biết hồ tinh bột.
+
+- Phản ứng thủy phân:
+ (C6H10O5)n + nH2O → nC6H12O6 (glucozơ)
+Khi có men thì thủy phân:
+Tinh bột → đextrin → mantozơ → glucozơ
+
+3. Điều chế
+Trong tự nhiên, tinh bột được tổng hợp chủ yếu nhờ quá trình quang hợp của cây xanh.
+6nCO2 + 5nH2O → (C6H10O5)n + 6nO2 (clorofin, ánh sáng)

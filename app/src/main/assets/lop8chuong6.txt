@@ -1,0 +1,52 @@
+Bài 40: Dung dịch
+
+1. Dung dịch là hỗn hợp đồng chất của dung môi và chất tan.
+
+2. Ở nhiệt độ xác định:
+
+a) Dung dịch chưa bão hòa là dung dịch có thể hòa tan thêm chất tan.
+
+b) Dung dịch bão hòa là dung dịch không thể hòa tan thêm chất tan.
+
+3) Muỗn chất rắn tan nhanh trong nước, 1, 2 hoặc cả ba biện pháp sau:
+
+- Khuấy dung dịch.
+
+- Đun nóng dung dịch.
+
+- Nghiền nhỏ chất rắn.
+----------------------------------------------------------------
+Bài 41: Độ tan của một chất trong nước
+
+1. Tính tan của các hợp chất trong nước:
+
+Bazơ: phần lớn các bazơ không tan , trừ NaOH, KOH, Ba(OH)2.
+
+Axit: hầu hết các axit tan được, trừ H2SiO3.
+
+Muối: Các muối nitrat đều tan.
+
+Phần lớn các muối clorua và sunfat tan được, trừ AgCl, PbSO4, BaSO4.
+
+Phần lớn muối cacbonat không tan trừ Na2CO3, K2CO3.
+
+2. Độ tan của một chất trong nước:
+
+Độ tan (S) của một chất là số gam chất đó tan được trong 100 g nước để tạo thành dung dịch bão hòa ở một nhiệt độ xác định.
+
+Độ tan của chất rắn sẽ tăng, nếu tăng nhiệt độ. Độ tan của chất khí sẽ tăng, nếu giảm nhiệt độ và tăng áp suất.
+----------------------------------------------------------------
+Bài 42: Nồng độ dung dịch
+
+1. Nồng độ phần trăm cho biết số gam chất tan có trong 100 g dung dịch:
+
+       m(chất tan)
+C% = ------------- x 100 %
+      m(dung dịch)
+
+ (m dung dịch = m dung môi + m chất tan).
+
+2. Nồng độ mol cho biết số mol chất tan trong một lít dung dịch:
+
+        CM = n/V (mol/l).
+

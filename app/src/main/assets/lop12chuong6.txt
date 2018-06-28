@@ -1,0 +1,15 @@
+Bài 25: Kim loại kiềm và hợp chất quan trọng của kim loại kiềm.
+
+1. Kim loại kiềm
+- Thuộc nhóm IA, đứng đầu mỗi chu kì (trừ chu kì 1).
+- Tính chất vật lí: mềm, khối lượng riêng nhỏ, nhiệt độ nóng chảy thấp.
+- Có 1e ở lớp ngoài cùng (ns1).
+- Tính chất hóa học: có tính khử mạnh nhất trong tất cả các kim loại (tác dụng với nước, axit, phi kim).
+                              M → M+ + 1e
+- Phương pháp điều chế: điện phân hợp chất nóng chảy.
+
+2. Một số hợp chất của kim loại kiềm
+- NaOH: có tính kiềm mạnh; được dùng để nấu xà phòng, chế phẩm nhuộm tơ nhân tạo,…
+- NaHCO3: có tính lưỡng tính, bị phân hủy bởi nhiệt; dùng được trong công nghiệp dược phẩm và thực phẩm.
+- Na2CO3: là muối của axit yếu; được dùng trong công nghiệp thủy tinh, bột giặt, phẩm nhuộm, giấy sợi…
+- KNO3: có tính oxi hóa mạnh khi đun nóng; đuoẹc dùng làm phân bón, chế tạo thuốc nổ.

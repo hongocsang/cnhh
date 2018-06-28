@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <array name="Lop_8">
+       <item>CHƯƠNG 1: CHẤT - NGUYÊN TỬ - PHÂN TỬ</item>
+       <item>CHƯƠNG 2: PHẢN ỨNG HÓA HỌC</item>
+       <item>CHƯƠNG 3: MOL VÀ TÍNH TOÁN HÓA HỌC</item>
+       <item>CHƯƠNG 4: OXI - KHÔNG KHÍ</item>
+       <item>CHƯƠNG 5: HIĐRO - NƯỚC</item>
+       <item>CHƯƠNG 6: DUNG DỊCH</item>
+    </array>
+
+    <array name="Lop_9">
+        <item>CHƯƠNG 1: CÁC LOẠI HỢP CHẤT VÔ CƠ</item>
+        <item>Chương 2: KIM LOẠI</item>
+        <item>Chương 3: SƠ LƯỢC VỀ BẢNG TUẦN HOÀN CÁC NGUYÊN TỐ HÓA HỌC</item>
+        <item>Chương 4: HIĐROCACBON. NHIÊN LIỆU</item>
+        <item>Chương 5: DẪN XUẤT CỦA HIĐROCACBON. POLIME</item>
+    </array>
+
+    <array name="Lop_10">
+        <item>CHƯƠNG 1: NGUYÊN TỬ</item>
+        <item>CHƯƠNG 2: BẢNG TUẦN HOÀN CÁC NGUYÊN TỐ HÓA HỌC VÀ ĐỊNH LUẬT TUẦN HOÀN</item>
+        <item>CHƯƠNG 3: LIÊN KẾT HÓA HỌC</item>
+        <item>CHƯƠNG 4: PHẢN ỨNG OXI HÓA-KHỬ</item>
+        <item>CHƯƠNG 5: NHÓM HALOGEN</item>
+        <item>CHƯƠNG 6: OXI-LƯU HUỲNH</item>
+        <item>CHƯƠNG 7: TỐC ĐỘ PHẢN ỨNG VÀ CÂN BẰNG HÓA HỌC</item>
+    </array>
+
+    <array name="Lop_11">
+        <item>CHƯƠNG 1: SỰ ĐIỆN LI</item>
+        <item>CHƯƠNG 2: NITƠ-PHOTPHO</item>
+        <item>CHƯƠNG 3: CACBON-SILIC</item>
+        <item>CHƯƠNG 4: ĐẠI CƯƠNG VỀ HÓA HỌC HỮU CƠ</item>
+        <item>CHƯƠNG 5: HIDROCACBON NO</item>
+        <item>CHƯƠNG 6: HIDROCACBON KHÔNG NO</item>
+        <item>CHƯƠNG 7: HIĐROCACBON THƠM, NGUỒN HIĐROCACBON THIÊN NHIÊN.HỆ THỐNG HÓA VỀ HIĐROCACBON</item>
+        <item>CHƯƠNG 8: DẪN XUẤT HALOGEN-ANCOL-PHENOL</item>
+        <item>CHƯƠNG 9: ANĐEHIT-XETON-AXIT CACBOXYLIC</item>
+    </array>
+
+    <array name="Lop_12">
+        <item>CHƯƠNG 1: ESTE-LIPIT</item>
+        <item>CHƯƠNG 2: CACBOHIDRAT</item>
+        <item>CHƯƠNG 3: AMIN, AMINO AXIT VÀ PROTEIN\n</item>
+        <item>CHƯƠNG 4: POLIME VÀ VẬT LIỆU POLIME</item>
+        <item>CHƯƠNG 5: ĐẠI CƯƠNG VỀ KIM LOẠI</item>
+        <item>CHƯƠNG 6: KIM LOẠI KIỀM, KIM LOẠI KIỀM THỔ, NHÔM</item>
+        <item>CHƯƠNG 7: SẮT VÀ MỘT SỐ KIM LOẠI QUAN TRỌNG</item>
+        <item>CHƯƠNG 9: HÓA HỌC VÀ VẤN ĐỀ PHÁT TRIỂN KINH TẾ, XÃ HỘI, MÔI TRƯỜNG</item>
+    </array>
+</resources>

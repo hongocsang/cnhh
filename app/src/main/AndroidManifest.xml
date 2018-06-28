@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.vuphu.project_hoa_hoc">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" >
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+        </activity>
+        <activity android:name=".LoginActivity" />
+        <activity
+            android:name=".SignUpActivity"
+            android:parentActivityName=".LoginActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ThemCauHoi"
+            android:label="Thêm câu hỏi"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".TracNghiemActivity"
+            android:label="Trắc nghiệm"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".KienThucActivity"
+            android:label="Kiến thức cơ bản"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".BangTuanHoanActivity"
+            android:label="Bảng tuần hoàn hóa học"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".TinhTanActivity"
+            android:label="Bảng tính tan"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".KimLoaiActivity"
+            android:label="Dãy hoạt động kim loại"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".CanBangActivity"
+            android:label="Cân Bằng Hóa Học"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ChatHoaHocActivity"
+            android:label="Các chất hóa học"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DetailCHHActivity"
+            android:parentActivityName=".ChatHoaHocActivity" />
+        <activity
+            android:name=".ThemBaiTapActivity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".LoginGoogle"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar">
+
+        </activity>
+        <activity
+            android:name=".SupportActivity"
+            android:label="Hỗ trợ"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DetailKienThucActivity"
+            android:parentActivityName=".KienThucActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name=".NoiDungChuongActivity" />
+        <activity android:name=".BaiCaHoaTriActivity"></activity>
+    </application>
+
+</manifest>

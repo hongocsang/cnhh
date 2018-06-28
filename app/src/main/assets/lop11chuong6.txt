@@ -1,0 +1,24 @@
+Bài 39-40: Anken.
+
+1. Đồng đẳng, đồng phân, danh pháp
++ CTTQ dãy đồng đẳng CnH2n (n> 2)
++ Đồng phân cấu tạo: Anken từ C4H8 trở đi có đồng phân cấu tạo mạch cacbon và vị trí nối đôi.
++ Đồng phân hình học: Nếu mỗi C mang liên kết đôi dính với 2 nhóm nguyên tử khác nhau thì sẽ có 2 cách phân bố không gian khác nhau là đồng phân cis và trans.
++ Cách đọc tên đồng phân hình học: ghi tiền tố cis- trans- trước tên gọi anken
++ Tên thông thường của một số ít anken lấy tên từ ankan tương ứng, nhưng đổi hậu tố an thành ilen.
++ Tên thay thế: số chỉ vị trí – Tên nhánh + Tên mạch chính – Số chỉ vị trí – en
+
+2. Tính chất
+- Phản ứng cộng
++ Cộng hidro : CnH2n + H2 → CnH2n + 2
++ Cộng halogen: CnH2n + X2 → CnH2nX2
++ Cộng HA: Cộng hidro halogenua, axit sulfuric đậm đặc,…
+PTTQ: CnH2n + HA → CnH2n + 1A  (A là X, OSO3H, OH)
+Phản ứng cộng HA vào anken không đối xứng tuân theo Quy tắc Mac–cop–nhi–côp: “ nguyên tử H ưu tiên cộng vào nguyên tử cacbon bậc thấp hơn ở nối kép , A ưu tiên cộng vào nguyên tử cacbon bậc cao hơn”
+
+b) Trùng hợp: Quá trình kết hợp liên tiếp nhiều phân tử nhỏ giống nhau hoặc tương tự nhau (gọi là monomer) tạo thành những phân tử rất lớn (gọi là polime).
+Số lương măt xích monomer trong phân tử polime gọi là hệ số trùng hợp, kí hiệu là n.
+
+c) Phản ứng oxi hóa
+Anken cháy hoàn toàn tạo thành CO2 và H2O  và tỏa nhiều nhiệt.
+Anken làm mất màu dung dịch KMnO4 (phản ứng được dùng để nhận ra sự có mặt của liên kết đôi), bị oxi hóa không hoàn toàn thành hợp chất điol.

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1e212e</color>
+    <color name="colorPrimaryDark">#0d0e16</color>
+    <color name="colorAccent">#fd592c</color>
+    <color name="phiKim">#65CAF3</color>
+    <color name="kimLoai">#26a69a</color>
+    <color name="khiHiem">#607d8b</color>
+    <color name="Dung">#388E3C</color>
+    <color name="Sai">#00B8D4</color>
+</resources>

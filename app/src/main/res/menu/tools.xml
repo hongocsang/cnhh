@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="Bảng tuần hoàn"
+        android:icon="@drawable/preview"
+        android:id="@+id/BTH"
+        ></item>
+    <item
+        android:title="Chất hóa học"
+        android:icon="@drawable/chh"
+        android:id="@+id/CHH"></item>
+    <item
+        android:title="Chất hóa học"
+        android:icon="@drawable/chh"
+        android:id="@+id/BaiCaHoaTri"></item>
+
+</menu>

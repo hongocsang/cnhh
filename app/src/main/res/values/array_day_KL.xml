@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="DayHoatDongKimLoai">
+        <item>K 1+</item>
+        <item>Na 1+</item>
+        <item>Mg 2+</item>
+        <item>Al 3+</item>
+        <item>Zn 2+</item>
+        <item>Fe 2+</item>
+        <item>Ni 2+</item>
+        <item>Sn 2+</item>
+        <item>Pb 2+</item>
+        <item>H 1+</item>
+        <item>Cu 2+</item>
+        <item>Ag 1+</item>
+        <item>Au 2+</item>
+    </array>
+</resources>

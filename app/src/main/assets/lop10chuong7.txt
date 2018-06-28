@@ -1,0 +1,56 @@
+Bài 36: Tốc độ phản ứng hóa học
+
+I- Tốc độ phản ứng hóa học
+1. Khái niệm về tốc độ phản ứng
+Để so sánh mức độ xảy ra nhanh hay chậm của các phản ứng hóa học, người ta dùng đại lượng tốc độ phản ứng hóa học, gọi tắt là tốc độ phản ứng.
+
+a) Tốc độ phản ứng
+- Tốc độ phản ứng là đại lượng đặc trưng cho độ biến thiên nồng độ của một trong các chất phản ứng hoặc sản phẩm ứng trong một đơn vị thời gian,
+- Theo quy ước: nồng độ được tính bằng mol/l
+ Thời gian lf giây (s), phút (ph), giờ (h)…
+
+b) Tốc độ trung bình của phản ứng
+Xét phản ứng: A → B
+Ở thời điểm t1: CA là C1 mol/l
+Ở thời điểm t2: CA là C2 mol/l (C1 > C2)
+-Tốc độ của phản ứng tính theo A trong khoảng thời gian t1 → t2 thì:
+ v(trung bình) = ((C1-C2)/(t2-t1)) = ((C2-C1)/(t2-t1)) = -(ΔC/Δt)
+- Tốc độ của phản ứng tính theo sản phẩm B thì:
+
+Ở thời điểm t1: CB là C1 mol/l
+Ở thời điểm t2: CB là C2 mol/l (C2 > C1)
+    v(trung bình) = ((C1-C2)/(t2-t1))
+
+Do đó, công thức tổng quát tính tốc độ phản ứng trong khoảng thời gian từ t1 đến t2 là:
+    v(trung bình) = ± (ΔC/Δt)
+
+Trong đó:
+ v(trung bình) là tốc độ trung bình của phản ứng trong khoảng thời gian từ t1 đến t2.
++ ∆C là biến thiên nồng độ chất sản phẩm.
+- ∆C là biến thiên nồng độ chất tham gia phản ứng (chất tạo thành).
+- Biểu thức tốc độ của phản ứng trên:
+ V = k[A]     (k là hằng số tốc độ phản ứng)
+
+2. Các yếu tố ảnh hưởng đến tốc độ phản ứng
+a) ảnh hưởng của nồng độ
+Khi nồng độ chất phản ứng tăng, tốc độ phản ứng tăng.
+
+b) Ảnh hưởng của nhiệt độ
+Khi nhiệt độ tăng, tốc độ phản ứng tăng.
+Giải thích: khi nhiệt độ phản ứng tăng dẫn đến hai hệ quả sau:
+- Tốc độ chuyển động của các phân tử tăng, dẫn đến tần số va chạm giữa các chất phản ứng tăng.
+- Tần số va chạm có hiệu quả giữa các chất phản ứng tăng nhanh. Đây là yếu tố chính làm cho tốc độ phản ứng tăng nhanh khi tăng nhiệt độ.
+
+c) Ảnh hưởng của áp suất
+- Đối với phản ứng có chất khi tham gia, khi áp suất tăng (nồng độ chất khí tăng), tốc độ phản ứng tăng.
+- Khi tăng áp suất, khoảng cách giữa các phân tử càng nhỏ, nên sự va chạm càng dễ có hiệu quả hơn, phản ứng xảy ra nhanh hơn.
+
+d) Ảnh hưởng của diện tích bề mặt
+Đối với phản ứng có chất rắn tham gia, khi diện tích bề mặt tăng, tốc độ phản ứng tăng.
+
+e) Ảnh hưởng của chất xúc tác
+- Chất xúc tác là chất có tác dụng làm biến đổi mãnh liệt tốc độ của phản ứng nhưng không bị tiêu hao trong phản ứng.
+- Những chất xúc tác xúc tiến cho quá trình xảy ra nhanh hơn là chất xúc tác dương. Trong kĩ thuật hiện đại xúc tác dương được sử dụng rộng rãi.
+Ví dụ trong quá trình tổng hợp NH3, sản xuất H2SO4, HNO3, cao su nhân tạo, chất dẻo,..v..v..
+- Những chất xúc tác làm cho quá trình xảy ra chậm được gọi là chất xúc tác âm.
+Ví dụ: Quá trình oxi hóa Na2SO3 trong dung dịch thành Na2SO4 xảy ra chậm khi cho thêm glixerin.

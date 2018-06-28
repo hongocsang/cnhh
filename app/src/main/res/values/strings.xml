@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Cẩm Nang Hóa Học</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_signout">Đăng xuất</string>
+    <string name="loading">Đang xử lí</string>
+    <string name="btn_signUp_sinup">Đăng kí</string>
+    <string name="btn_Login_Dangnhap">Đăng nhập</string>
+    <string name="Login_tv_dangki">Chưa có tài khoản? Đăng kí ngay</string>
+    <string name="auth_failed">Không thể đăng nhập</string>
+    <string name="textTN">Bài kiểm ra gồm 10 câu hỏi và có 4 đáp án cho bạn lựa chọn.\nCác câu hỏi được đưa ra một cách ngẫu nhiên.
+    \nNếu có sai sót vui lòng báo vào phần góp ý ứng dụng.
+    \nKiểm tra chứ???</string>
+
+    <string name="kimloai">\n\n
+
+    <i>a. Mức độ hóa học của các kim loại giảm dần từ trái sang phải</i>
+\n\n
+    => K là kim loại hoạt động mạnh nhất\n
+        =>Au là kim loại hoạt động kém nhất.
+        \n
+\n
+    <i>b. Kim loại đứng trước Mg (K, Ba, Ca, Na) phản ứng được với nước ở nhiệt độ thường.</i>
+    \n\n
+    2Na + 2H2O → 2NaOH + H2↑
+    \n
+    Ba + 2H2O → Ba(OH)2 + H2↑
+        \n
+    \n
+    <i>c. Kim loại đứng trước H tác dụng với dung dịch axit (HCl; H2SO4 loãng,….) tạo ra H2</i>
+    \n\n
+    Fe + 2HCl → FeCl2 + H2 ↑
+    \n
+    Cu + 2HCl → không phản ứng (vì Cu đứng sau H)
+        \n
+    \n
+   <i> d. Kim loại không tan trong nước (từ Mg trở về sau) đẩy được kim loại đứng sau nó ra khỏi dung dịch muối</i>
+    \n\n
+        Fe + CuSO4 → FeSO4 + Cu
+        \n
+        Cu + 2AgNO3 → Cu(NO3)2 + 2Ag
+        \n
+        \n
+    <b>Chú ý:</b> Khi cho Na vào dung dịch CuCl2 thì:
+\n
+    + Na phản ứng với nước trước:\n\n
+        2Na + 2H2O → 2NaOH + H2↑
+    \n\n
+    + Sau đó xảy ra phản ứng:\n\n
+        CuCl2 + 2NaOH → Cu(OH)2↓ + 2Ag
+</string>
+    <string name="baicahoatri">
+        Kali (K), Iot (I), Hidrô (H)\n
+Natri (Na) với Bạc (Ag), Clo (Cl) một loài\n
+Là hoá trị I hỡi ai\n
+Nhớ ghi cho kỹ khỏi hoài phân vân\n
+Magiê (Mg), Kẽm (Zn) với Thuỷ Ngân(Hg)\n
+Oxi (O), Đồng (Cu), Thiếc(Sn) thêm phần Bari (Ba)
+        \nCuối cùng thêm chú Canxi (Ca)
+Hoá trị II nhớ có gì khó khăn\n
+Bác Nhôm (Al) hoá trị III lần\n
+In sâu trí nhớ khi cần có ngay\n
+Cacbon (C), Silic (Si) này đây\n
+Có hoá trị IV không ngày nào quên\n
+Sắt (Fe) kia lắm lúc hay phiền\n
+II, III lên xuống nhớ liền ngay thôi\n
+Nitơ (N) rắc rối nhất đời\n
+I, II, III, IV khi thời lên V\n
+Lưu huỳnh (S) lắm lúc chơi khăm\n
+Xuống II lên VI khi nằm thứ IV\n
+Phot pho (P) nói đến không dư\n
+Có ai hỏi đến thì ừ rằng V\n
+Em ơi, cố gắng học chăm\n
+    </string>
+</resources>

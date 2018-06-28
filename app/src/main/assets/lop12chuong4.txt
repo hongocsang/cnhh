@@ -1,0 +1,22 @@
+Bài 13: Đại cương về polime
+
+- Đặc điểm cấu tạo:
++ Có kích thước và phân tử khối lớn.
++ Do nhiều mắt xích nối với nhau tạo thành mạch không phân nhánh, mạch nhánh và mạng không gian.
++ Nếu các mắt xích nối với nhau theo trật tự nhật định
+(chẳng hạn đầu nối với đuôi thì polime có cấu tạo điều hòa, còn nếu các mắt xích nối với nhau không theo trật tự nhất định (
+chẳng hạn đầu nối với đầu) thì polime có cấu tạo không điều hòa).
+
+- Tính chất vật lí chung:
++ hầu hết là những chất rắn,
++ không bay hơi,
++ không có nhiệt độ nóng chảy cố định,
++ khó hòa tan trong các dung môi thông thường,
++ nhiều chất có tính cách điện, cách nhiệt,
++ một số có tính dẻo, tính đàn hồi,..
+
+- Tính chất hóa học:
++ Phản ứng giữ nguyên mạch: thường là phản ứng thế hay cộng.
++ Phản ứng giảm mạch: thường là phản ứng thủy phân hoặc giải trùng hợp hay đề polime hóa.
++ Phản ứng khâu mạch: thường là phản ứng nối các đoạn mạch không phân nhánh thành phân nhánh hoặc mạng không gian.
+- Phương pháp điều chế: được điều chế bằng phản ứng trùng hợp và trùng ngưng.

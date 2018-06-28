@@ -1,0 +1,13 @@
+Bài 1: Sự điện li.
+
+1. Sự điện li là quá trình phân li các chất trong nước hoặc khi nóng chảy thành ion.
+2. Dung dịch (dd) dẫn điện được là do trong dung dịch của chúng có các hạt mang điện tích chuyển động tự do được gọi là các ion.
+3. Chất điện li là những chất khi tan trong nước phân li ra ion.
+Axit, bazơ, muối đều là những chất điện li.
+Chất điện li mạnh là chất khi tan trong nước, các phân tử hòa tan phân li hoàn toàn.
+Các axit mạnh, bazơ mạnh và hầu hết các muối là chất điện li mạnh.
+Chất điện li yếu là chất khi tan trong nước, số phân tử hòa tan phân li một phần, phần còn lại vẫn tồn tại dưới dạng phân tử trong dung dịch.
+Các axit yếu, bazơ yếu và một số muối là chất điện li yếu.
+Chất không điện li là những chất khi tan trong nước không phân li ra ion.
+
+4. Cân bằng điện li: Sự phân li của các chất điện li yếu là quá trình thuận nghịch. Khi tốc độ phân li của phân tử chất điện li (phản ứng thuận) bằng tốc độ kết hợp giữa các ion thành phân tử chất điện li (phản ứng nghịch) thì cân bằng của quá trình điện li được thiết lập.

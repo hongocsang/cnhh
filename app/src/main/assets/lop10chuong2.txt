@@ -1,0 +1,26 @@
+Bài 7: Bảng tuần hoàn các nguyên tố hóa học
+
+1. Nguyên tắc sắp xếp các nguyên tố hóa học
+Các nguyên tố hóa học được xếp vào bảng tuần hoàn dựa trên các nguyên tắc sau:
+a) Các nguyên tố được xếp theo chiều tăng dần của điện tích hạt nhân.
+b) Các nguyên tố có cùng số lớp electron trong nguyên tử được xếp thành một hàng ngang (chu kì).
+c) Các nguyên tố có cùng số electron hóa trị (electron có khả năng tham gia vào quá trình hình thành liên kết hóa học) được xếp thành một cột (nhóm).
+
+2. Cấu tạo bảng tuần hoàn các nguyên tố hóa học
+a) Ô nguyên tố
+Mỗi nguyên tố hóa học được xếp vào một ô của bảng gọi là ô nguyên tố.
+Các ô nguyên tố được đánh số thứ tự, số thứ tự chính là số điện tích Z của nguyên tố đó.
+Đó cũng chính là số hạt proton trong hạt nhân và bằng số electron thuộc lớp vỏ nguyên tử của nguyên tố đó.
+
+b) Chu kỳ
+Chu kì là dãy các nguyên tố mà nguyên tử của chúng có cùng số lớp electron, được xếp theo chiều điện tích hạt nhân tang dần.
+- Số thứ tự của chu kì trùng với số lớp electron của nguyên tử của các nguyên tố trong chu kì đó.
+- Có 7 chu kì
+Chu kì nhỏ: là các chu kì 1, 2, 3.
+Chu kì lớn: là các chu kì 4, 5, 6, 7.
+
+c) Nhóm
+Nhóm là tập hợp các nguyên tố hóa học được xếp thành cột gồm các nguyên tố mà nguyên tử có cấu hình electron lớp ngoài cùng tương tự nhau, do đó tính chất hóa học gần giống nhau.
+- Nguyên tử của các nguyên tố trong cùng một nhóm có số electron hóa trị bằng nhau và bằng số thứ tự của nhóm.
+- Bảng tuần hoàn có 18 cột được chia thành 8 nhóm A và 8 nhóm riêng B. Mỗi nhóm là 1 cột, riêng nhóm VIIIB gồm 3 cột.
+- Các nhóm nguyên tố gồm nhóm A và nhóm B.

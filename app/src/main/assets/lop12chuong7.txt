@@ -1,0 +1,15 @@
+Bài 31: Sắt.
+
+- Sắt có Z = 26 thuộc nhóm VIIIB,
+chu kì 4 của bảng tuần hoàn.
+- Cấu hình electron của Fe : [Ar]3d64s2 ;
+Fe2+ : [Ar]3d6   ;    Fe3+ : [Ar]3d5.
+- Số oxi hóa : +2, +3.
+- Tính chất vật lí : có màu trắng, hơi xám, dẻo, dễ rèn, nóng chảy ở nhiệt độ 1540oC,
+   D = 7,9 g/cm3, dẫn điện, dẫn nhiệt tốt, có tính nhiễm từ.
+
+- Tính chất hóa học đặc trưng của sắt :
+Tính khử trung bình (tác dụng với oxi, lưu huỳnh, clo,nước, dung dịch axit, dung dịch muối).
++ Với chất oxi hóa yếu :           Fe -> Fe2+ + 2e.
++ Với chất oxi hóa mạnh :       Fe -> Fe3+ + 3e.
++ Fe thụ động với H2SO4 và HNO­­3 đặc nguội.

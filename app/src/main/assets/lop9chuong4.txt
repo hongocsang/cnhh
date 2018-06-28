@@ -1,0 +1,142 @@
+Bài 34: Khái niệm về hợp chất hữu cơ và hoá học hữu cơ.
+
+I. KHÁI NIỆM VỀ HỢP CHẤT HỮU CƠ
+- Hợp chất hữu cơ có ở xung quanh ta, trong cơ thể sinh vật, cơ thể người và trong hầu hết các loại lương thực, thực phẩm, trong các loại đồ dùng...
+- Hợp chất hữu cơ là hợp chất của cacbon (trừ CO, CO2, H2CO3 và muối cacbonat, cacbua kim loại như CaC2...).
+----------------------------------------------------------------
+Bài 35: Cấu tạo phân tử hợp chất hữu cơ.
+
+I. ĐẶC ĐIỂM CẤU TẠO PHÂN TỬ HỢP CHẤT HỮU CƠ
+1. Hóa trị và liên kết giữa các nguyên tử
+Trong các hợp chắt hữu cơ, cacbon luôn có hóa trị IV, hiđro có hóa trị I, oxi có hóa trị II.
+(mỗi hóa trị được biểu diễn bằng một gạch nối giữa hai nguyên tử liên kết)
+
+2. Mạch cacbon
+Trong hợp chất hữu cơ, các nguyên tử cacbon di liên kết với nhau tạo thành mạch cacbon. Có 3 loại mạch cacbon là mạch không phân nhánh (mạch thẳng), mạch nhánh và mạch vòng.
+
+3. Trật tự liên kết giữa các nguyên tử trong phân tử
+Mỗi hợp chất hữu cơ có một trật tự liên kết giữa các nguyên tử trong phân tử. Thí dụ: cùng công thức phân tử C2H6O nhưng trật tự liên kết giữa các nguyên tử khác nhau, tạo thành hai hợp chất khác nhau là rượu etylic và đimetyl ete.
+
+II. CÔNG THỨC CẤU TẠO
+Công thức cấu tạo là công thức biểu diễn đầy đủ liên kết giữa các nguyên tử trong phân tử.
+Như vậy, công thức cấu tạo cho biết thành phần của phân tử và trật tự liên kết giữa các nguyên tử trong phân tử.
+----------------------------------------------------------------
+Bài 36: Metan.
+
+I. TRẠNG THÁI TỰ NHIÊN, TÍNH CHẤT VẬT LÍ
+Trong tự nhiên, metan có nhiều trong các mỏ khí (khí thiên nhiên), trong mỏ dầu (khí mỏ dầu), trong các mỏ than (khí mỏ than).
+Metan là chất khí, không màu, không mùi, nhẹ hơn không khí và tan rất ít trong nước.
+
+II. CẤU TẠO PHÂN TỬ
+Trong phân từ metan chỉ có liên kết đơn, công thức cấu tạo của metan:
+- Những hiđrocacbon mạch hờ, phân tử chỉ có liên kết đơn giống như metan gọi là ankan, có công thức chung CnH2n+2, với n > 1.
+
+III.  TÍNH CHẤT HÓA HỌC
+1. Tác dụng với oxi:
+Khi đốt trong oxi, metan cháy tạo thành khí C02 và H90, tỏa nhiều nhiệt.
+
+2. Tác dụng với clo khi có ánh sáng:
+CH4 + Cl2 → HC1 + CH3Cl (metyl clorua)
+Ở phản ứng này, nguyên tử H của metan được thay thế bởi nguyên tử Cl, vì vậy được gọi là phản ứng thế.
+
+IV. ỨNG DỤNG
+- Metan cháy tỏa nhiều nhiệt nên được dùng làm nhiên liệu.
+- Metan là nguyên liệu dùng điều chế hiđro.
+- Metan còn được dùng để điều chế bột than và nhiều chất khác.
+----------------------------------------------------------------
+Bài 37: Etilen.
+
+I. TÍNH CHẤT VẬT LÍ
+Etilen là chất khí, không màu, không mùi, nhẹ hơn không khí và ít tan trong nước.
+
+II. CẤU TẠO PHÂN TỬ
+Trong phân tử etilen C2H4, có một liên kết đôi giữa hai nguyên tử cacbon.
+Trong liên kết đôi có một liên kết kém bền. Liên kêt này dễ đứt ra trong các phản ứng hóa học.
+Những hiđrocacbon mạch hở, trong phân tử có một liên kết đôi như etilen gọi là anken, có công thức chung CnH2n với n > 2.
+
+III. TÍNH CHẤT HÓA HỌC
+1) Tác dụng với oxi:
+Khi dốt trong oxi, etilen cháy tạo thành khí CO2 và H2O, tỏa nhiều nhiệt.
+
+2)  Tác dụng với dung dịch brom (hay nước brom, có màu vàng da cam);
+Ở phản ứng này, một liên kết kém bền trong liên kết dôi bị đứt ra và phân tử etilen kết hợp thêm một phân tử brom. Phản ứng trên gọi là hàn ứng cộng.
+Ngoài brom, trong những điều kiện thích hợp, etilen còn có phản ứng cộng vởi một số chất khác, như hidro, ...
+
+3. Phản ứng trùng hợp
+Khi có xúc tác và nhiệt độ thích hợp, liên kết kém bền trong phân tử etilen bị dứt ra làm cho các phân tử etilen kết hợp với nhau, tạo thành chất có phân tử lượng rất lớn gọi là polime.
+
+IV. ỨNG DỤNG
+- Etilen dùng để sản xuất axit axetic, rượu etylic, poli (vinyl clorua),...
+- Etilen dùng kích thích quả mau chín.
+----------------------------------------------------------------
+Bài 38: Axetilen.
+
+I. TÍNH CHẤT VẬT LÍ
+Axetilen C2H2 là chất khí, không màu, không mùi, nhẹ hơn không khí, ít tan trong nước.
+
+II. CẤU TẠO PHÂN TỬ
+Trong phân tử axetilen có một liên kết ba giữa hai nguyên tử cacbon.
+Công thức cấu tạo của axetilen H-C=C-H; viết gọn HC=CH.
+
+III. TÍNH CHẤT HÓA HỌC
+1. Tác dụng với oxi
+2. Tác dụng với dung dịch brom:
+HC=CH + Br2 —> Br-CH=CH—Br (đibrom etilen)
+HC=CH + Br2 —> Br2CH-CHBr2 (tetra brometan)
+
+Nếu nước brom lấy dư và axetilen phản ứng hết thì viết:
+Trong điều kiện thích hợp, axetilen còn tham gia phản ứng cộng với nhiều chất khác như H2, Cl2...
+
+IV. ĐIỂU CHẾ
+1. Trong phòng thí nghiệm và trọng công nghiệp,cho canxi cacbua phản ứng với nước.
+2. Phương pháp hiện đại để điều chê axetilen hiện nay là nhiệt phân metan ở nhiệt độ cao, sau đó làm lạnh nhanh.
+
+V. ỨNG DỤNG
+-   Axetilen dùng trong đèn xì oxi-axetilen dể hàn, cắt kim loại.
+-  Axetilen là nguyên liệu để sản xuất poli (vinyl clorua) dùng sản xuất nhựa PVC và nhiều hóa chất khác.
+----------------------------------------------------------------
+Bài 39: Benzen.
+
+I. TÍNH CHẤT VẬT LÍ
+Benzen C6H6 là chất lỏng, không màu, không tan trong nước, nhẹ hơn nước, độc.
+Benzen hòa tan nhiều chất như: dầu ăn, cao su, nến, iot..
+
+II. CẤU TẠO PHÂN TỬ
+III. TÍNH CHẤT HÓA HỌC
+Từ công thức cấu tạo của benzen, ta thấy sáu nguyên tử cacbon liên kết với nhau tạo thành vòng sáu cạnh đều, có ba liên kết đôi xen kẽ ba liên kết đơn.
+-  Tác dụng với oxi:
+Khi đốt benzen cháy trong không khí tạo ra C02 và H20, ngọn lửa có nhiều khói đen (muội than)
+
+-  Phản ứng thế với với brom:
+Benzen không làm mất màu dung dịch brom như etilen và axetilen. Nó chỉ tham gia phản ứng thế với brom lỏng và cần có xúc tác là bột sắt.
+
+- Phản ứng cộng:
+Benzen khó tham gia phản ứng cộng hơn etilen và axetilen. Tuy nhiên, trong diều kiện thích hợp benzen có phản ứng cộng với một số chất như H2, Cl2..
+
+IV. ỨNG DỤNG
+Benzen là nguyên liệu quan trọng để sản xuất chất dẻo, phẩm nhuộm, dược phẩm, thuốc trừ sâu.. Benzen làm dung môi, hòa tan nhiều chất hữu cơ.
+----------------------------------------------------------------
+Bài 40: Dầu mỏ và khí thiên nhiên.
+
+I. DẦU MỎ
+1. Tính chất vật lí: Dầu mỏ là chất lòng sánh, màu nâu đen, không tan trong nước và nhẹ hơn nước.
+2. Trạng thái tự nhiên và thành phần của dầu mỏ
+- Trong tự nhiên, dầu mỏ tập trung thành những vùng lởn, ở sâu trong lòng đất, tạo thành các mỏ dầu.
+- Mỏ dầu thường có ba lớp: Lớp khí ở trên, được gọi là khí mỏ dầu hay khí đồng hành, thành phần chính của khí mỏ dầu là metan; Lớp dầu lỏng là một hỗn hợp phức tạp của nhiều loại hiđrocacbon và những lượng nhỏ các hợp chất khác; Dưới đáy mỏ dầu là một lởp nước mặn.
+
+3. Các sản phẩm chế biến từ dầu mỏ
+Khi chưng cất dầu mỏ,các sản phẩm được tách ra ở những nhiệt độ khác nhau như: Khí đốt, xăng, dầu thắp, dầu điezen, dầu mazut, nhựa đường.
+
+II. KHÍ THIÊN NHIÊN
+Khí thiên nhiên có trong các mỏ khí nằm dưới lòng đất. Thành phần -hủ yếu của khí thiên nhiên là metan.
+----------------------------------------------------------------
+Bài 41: Nhiên liệu.
+1. Nhiên liệu là những chất cháy được, khi cháy tỏa nhiệt và phát sáng.
+
+2. Phân loại
+
+- Nhiên liệu rắn: than đá, gỗ...
+
+-  Nhiên liệu lỏng: xăng, dầu hỏa, cồn...
+
+-  Nhiên liệu khí: khí thiên nhiên, khí mỏ dầu, khí than...

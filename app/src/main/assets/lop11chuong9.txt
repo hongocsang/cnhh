@@ -1,0 +1,16 @@
+Bài 58 anđehit- xeton.
+
+1. Anđehit là những hợp chất hữu cơ mà phân tử có nhóm CH= O liên kết trực tiếp với nguyên tử cacbon hoặc nguyên tử hidro R(CHO)n.
+- Xeton  là những hợp chất hữu cơ mà phân tử có nhóm –CO- liên kết trực tiếp với hai nguyên tử cacbon RCOR’
+- Danh pháp của anđehit:
++ Danh pháp thay thế: tên của hidrocacbon tương ứng + al
++ Danh pháp thông thường: anđehit + tên axit tương ứng
+
+2. Cấu trúc: Anđehit, xeton đều có nhóm – CO- gọi là nhóm cacbonyl trong phân tử.
+Liên kết đôi C=O gồm một liên kết δ và một liên kết π kém bền hơn, tương tự liên kết đôi C=C trong phân tử anken
+
+3. Tính chất hóa học: anđehit, xeton tham gia phản ứng cộng vào nhóm  - CO- (cộng H2, H2O, HCN);
+anđehit dễ bị oxi hóa hơn xeton (anđehit tác dụng với dung dịch bạc nitrat trong ammoniac).
+
+4. Phương pháp điều chế: phương pháp chung để điều chế anđehit là oxi hóa nhẹ ancol bậc 1, điều chế xeton là oxi hóa nhẹ ancol bậc 2 bằng CuO.
+Các ahđehit và xeton thông thường được sản xuấ từ hidrocacbon như: điều chế HCH=O từ metan, CH3-CH=O từ atilen, CH3-CO-CH3 từ cumen.

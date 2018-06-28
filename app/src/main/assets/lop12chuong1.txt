@@ -1,0 +1,72 @@
+Bài 1: ESTE.
+
+I. Định nghĩa
+- Este là sản phẩm thu được khi thay thế nhóm OH trong axit cacboxylic bằng nhóm OR.
+- Công thức tổng quát của một số loại este hay gặp:
+    + Este no, đơn chức, mạch hở: CnH2n+1COOCmH2m+1 hay CxH2xO2 (n ≥ 0; m ≥ 1; x ≥ 2).
+    + Este đơn chức: CxHyO2 hoặc RCOOR’ (x ≥ 2; y ≥ 4; y chẵn; y ≤ 2x)
+    + Este của axit đơn chức và Ancol đa chức: (RCOO)xR’.
+    + Este của axit đa chức và Ancol đơn chức: R(COOR’)x.
+    + Este của axit đa chức và Ancol đa chức: Rt(COO)xyR’x.
+Lưu ý rằng số chức este là bội số chung nhỏ nhất của số chức ancol và số chức axit.
+
+II. Danh pháp
+1. Tên thay thế
+Gốc Ancol + tên thay thế của axit (đổi đuôi ic thành đuôi at).
+
+2. Tên thường
+Gốc Ancol + tên thường của axit (đổi đuôi ic thành đuôi at)
+
+III. Tính chất vật lí
+- Thường là chất lỏng dễ bay hơi có mùi thơm dễ chịu của trái cây.
+- Nhẹ hơn nước, ít tan trong nước, dễ tách chiết bằng phễu chiết.
+- Nhiệt độ sôi của este thấp hơn nhiều so với nhiệt độ sôi của các axit và Ancol có cùng số nguyên tử C vì giữa các phân tử este không có liên kết hiđro.
+- Là dung môi tốt để hòa tan các chất hữu cơ.
+
+IV. Tính chất hóa học
+1. Phản ứng thủy phân
+Ry(COO)xyR’­x + xyH2O ↔ yR(COOH)x + xR’(OH)y
+- Phản ứng thực hiện trong môi trường axit loãng và được đun nóng.
+- Muốn tăng hiệu suất của phản ứng thủy phân este phải dùng dư nước và sử dụng chất xúc tác axit, đun nóng hỗn hợp phản ứng.
+- Nếu ancol sinh ra không bền thì phản ứng xảy ra theo một chiều.
+
+2. Phản ứng thủy phân trong môi trường kiềm (phản ứng xà phòng hóa)
+Ry(COO)xyR’­x + xyNaOH → yR(COONa)x + xR’(OH)y
+- mchất rắn sau phản ứng = mmuối + mkiềm dư.
+- Với este đơn chức: neste phản ứng = nNaOHphản ứng = nmuối  = nancol.
+
+3. Phản ứng khử este bởi LiAlH4 tạo hỗn hợp ancol
+4. Một số phản ứng riêng
+- Este của ancol không bền khi thủy phân hoặc xà phòng hóa không thu được ancol:
+RCOOCH=CH2 + H2O → RCOOH + CH3CHO
+- Este của phenol phản ứng tạo ra hai muối và nước:
+RCOOC6H5 + 2NaOH → RCOONa + C6H5ONa + H2O
+- Este của axit fomic (HCOO)xR có khả năng tham gia phản ứng tráng gương.
+(HCOO)xR + 2xAgNO3 + 3xNH3 + xH2O → (NH4CO3)xR + 2xAg + 2xNH4NO3
+- Nếu este có gốc axit hoặc gốc Ancol không no thì este đó còn tham gia được phản ứng cộng, phản ứng trùng hợp và phản ứng oxi hóa không hoàn toàn.
+CH2=CH-COOCH3 + Br2 → CH2Br-CHBr-COOCH3
+
+nCH2=C(CH3)COOCH3 → (-CH2-C(CH3)(COOCH3)-)n
+(Poli(MetylMetacrylat) - Plexiglass  - thủy tinh hữu cơ)
+
+nCH3COOCH=CH2 → (-CH2-CH(OOCCH3)-)n
+(poli(vinyl axetat) - PVA)
+
+V. Điều chế
+1. Thực hiện phản ứng este hóa giữa ancol và axit
+yR(COOH)x + xR’(OH)y ↔ Ry(COO)xyR’x + xyH2O (H+, t0)
+
+2. Thực hiện phản ứng cộng giữa axit và hiđrocacbon không no
+RCOOH + C2H2 → RCOOCH = CH2
+
+3. Thực hiện phản ứng giữa muối Na của axit và dẫn xuất halogen
+RCOONa + R’X → RCOOR’ + NaX (xt, t0)
+
+4. Thực hiện phản ứng giữa phenol và anhidrit axit
+(RCO)2O + C6H5OH → RCOOC6H5 + RCOOH
+
+VI. Nhận biết este
+- Este của axit fomic có khả năng tráng gương.
+- Các este của ancol không bền bị thủy phân tạo anđehit có khả năng tráng gương.
+- Este không no có phản ứng làm mất màu dung dịch Brom
+- Este của glixerol hoặc chất béo khi thủy phân cho sản phẩm hòa tan Cu(OH)2.

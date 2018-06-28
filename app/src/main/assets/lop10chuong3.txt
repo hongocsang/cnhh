@@ -1,0 +1,22 @@
+Bài 12: Liên kết ion - Tinh thể ion
+
+I. Khái niệm về liên kết hóa học
+1. Khái niệm về liên kết
+Trừ trường hợp các khí hiếm, ở điều kiện bình thường các nguyên tử của các nguyên tố không tồn tại ở trạng thái tự do, riêng rẽ mà liên kết với các nguyên tử khác nhau tạo thành phân tử hay tinh thể
+
+2. Quy tắc bát tử (8 electron)
+Theo quy tắc bát tử thì các nguyên tử của các nguyên tố có khuynh hướng liên kết với các nguyên tử khác để đạt cấu hình vững bền của các khí hiếm với 8 electron  (hoặc 2 electron với heli) ở lớp ngoài cùng.
+
+II. Các kiểu liên kết.
+1. Liên kết ion.
+a) Các nguyên tử kim loại có 1, hoặc 2, hoặc 3 electron ở lớp ngoài cùng nên khi đi vào liên kết nó có xu hướng nhường hết số electron lớp ngoài cùng để cho lớp sát cùng trở thành bão hòa và sau khi nhường electron thì phần còn lại trở thành phần tử mang điện tích dương gọi là ion dương (hay cation)
+b) Các nguyên tử phi kim có số electron ở lớp ngoài cùng là 5 hoặc 6 hoặc 7 nên khi biến động có xu hướng thu thêm 1, 2, 3 electron vào lớp ngoài cùng để có vỏ electron giống khí hiếm. sau khi thâu thêm electron thì nó trở thành phần tử mang điện âm, gọi là ion âm ( hay anion).
+c) Sự tạo thành liên kết ion
+Các ion trái dấu sẽ hút nhau với lực hút tĩnh điện để trở thành phân tử. ta gọi đó là phân tử ion và mối liên kết trong phân tử là liên kết ion
+
+d) Định nghĩa
+Liên kết ion là liên kết được tạo thành bởi lực hút tĩnh điện giữa các ion mang điện trái dấu.
+
+e) Cách biểu diễn liên kết ion (SGK)
+g) Hóa trị của các nguyên tố trong hợp chất ion.
+Hóa trị của một nguyên tố trong hợp chaatsion gọi là điện hóa trị và bằng điện tích của ion đó.

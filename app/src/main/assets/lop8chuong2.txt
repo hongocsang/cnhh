@@ -1,0 +1,36 @@
+                    Bài 12: Sự Biến Đổi Chất
+
+1. Hiện tượng vật lí: là hiện tượng khi chất biến đổi về trạng thái hay hình dạng.
+
+2. Hiện tượng hóa học: là hiện tượng khi có biến đổi từ chất này sang chất khác.
+----------------------------------------------------------------
+                    Bài 13: Phản Ứng Hoá Học
+
+1. Định nghĩa: phản ứng hóa học là quá trình làm biến đổi chất này (chất tham gia phản ứng) thành chất khác (sản phẩm hay chất tạo thành).
+
+2. Diễn biến của phản ứng hóa học: Trong phản ứng hóa học, chỉ có liên kết giữa các nguyên tử thay đổi làm cho phân tử này biến đổi thành phân tử khác.
+
+3. Điều kiện để phản ứng xảy ra: Phản ứng xảy ra được khi các chất tham gia tiếp xúc với nhau, có trường hợp cần đun nóng có mặt chất xúc tác,..
+
+4. Nhận biết có phản ứng xảy ra dựa vào dấu hiệu có chất mới tạo thành.
+----------------------------------------------------------------
+                    Bài 15: Định Luật Bảo Toàn Khối Lượng
+
+1. Định luật bảo toàn khối lượng:
+    “ Trong một phản ứng hóa học, tổng khối lượng của các sản phẩm bằng tổng khối lượng của các chất phản ứng”
+
+2. Áp dụng: trong một phản ứng có n chất, nếu biết khối lượng của (n – 1) chất thì tính được khối lượng của chất còn lại.
+----------------------------------------------------------------
+                    Bài 16: Phương Trình Hoá Học
+
+1. Định nghĩa: phương trình hoa học là phương trình biểu diễn ngắn gọn phản ứng hóa học
+
+2. Ba bước lập phương trình hóa học:
+
+- Viết sơ đồ phản ứng, gồm công thức hóa học của các chất tham gia sản phẩm.
+
+- Cân bằng số nguyên tử mỗi nguyên tố: tìm hệ số thích hợp đặt trước công thức.
+
+- Viết thành phương trình hóa học.
+
+3. Ý nghĩa phương trình hóa học: phương trình hóa học cho biết tỉ lệ về số nguyên tử, số phân tử giữa các chất cũng như từng cặp chất trong phản ứng.

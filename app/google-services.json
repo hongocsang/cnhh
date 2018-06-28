@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "24734863235",
+    "firebase_url": "https://projecthoahoc.firebaseio.com",
+    "project_id": "projecthoahoc",
+    "storage_bucket": "projecthoahoc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24734863235:android:715776ec90d95bf2",
+        "android_client_info": {
+          "package_name": "com.example.vuphu.project_hoa_hoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24734863235-6bh7c1oi96h9p12m14a9r7ibsdr848ee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vuphu.project_hoa_hoc",
+            "certificate_hash": "83b41f50171319cc8155fcea84409ca0e2fa5c71"
+          }
+        },
+        {
+          "client_id": "24734863235-1e8hnhnrmgji8c52srs91n4qhtd56k0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwbLXwXdBwSt3lyDzXiJuR2ycep_DmAEI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24734863235-1e8hnhnrmgji8c52srs91n4qhtd56k0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

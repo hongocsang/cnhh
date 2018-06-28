@@ -1,0 +1,33 @@
+Bài 46-47: Benzen và đồng đẳng. Một số hiđrocacbon thơm khác.
+
+1. Đồng đẳng, đồng phân, danh pháp, cấu tạo
+- Công thức chung dãy đồng đẳng của benzene: CnH2n-6 (n ≥ 6)
+- Tên gọi: Tên vị trí – tên nhánh + benzene
+- Đồng phân gồm: Đồng phân vị trí nhóm ankyl trong vòng benzen và đồng mạch cacbon của nhánh.
+- Cấu trúc phân tử benzen: Sáu nguyên tử C trong phân tử liên kết với nhau tạo vòng 6 cạnh, 3 liên kết đơn tạo hệ liên hợp chung cho cả vòng benzen.
+Các nguyên tử trong phân tử cùng nằm trên mặt phẳng.
+
+2. Tính chất hóa học
+a) Phản ứng thế
+- Phản ứng thế H ở nhân thơm bởi các tác nhân như halogen X2/Fe: HNO3/H2SO4 đặc  … tuân theo quy tắc thế vào vòng benzen.
+
+b) Phản ứng cộng
++ Cộng H2 (xt:Ni, to) vào vòng benzen tạo vòng no:
+CnH2n-6 + 3H2 → CnH2n
+
++ Benzen cộng Cl2/Chiếu sang tạo C6H6Cl6.
+
+c) Phản ứng oxi hóa
+- Phản ứng cháy tỏa nhiều nhiệt và cho nhiều muội than.
+- Ankylbenzen tác dụng với dung dịch KMnO4/to (hoặc K2Cr2O7) bị oxi hóa không hoàn toàn nhóm ankyl, trong đó C α chuyển thành nhóm – COOH.
+
+3. Stiren C8H8 (hay: vinybenzen, phenyletilen)
+Stiren là chất lỏng không màu, nhẹ hơn nước, không tan trong nước.
+
+ - Tính chất hóa học:
++ Tính chất thơm tương tự ankylbenzen: có phản ứng thế H ở nhân thơm, oxi hóa Cα ở nhánh.
++ Tính chất không no của nhóm vinyl tương tự anken: cộng halogen, cộng hi đro halogenua, trùng hợp, làm mất màu dung dịch KMnO4.
+
+4. Naphtalen: CTPT C10H8 và có công thức cấu tạo
+- Naphtalen là chất rắn màu trắng, thăng hoa ngay ở nhiệt độ thường, có mùi đặc trung, không tan trong nước, tan trong dung môi hữu cơ.
+- Naphtalen có tính thơm tương tụ benzen: Naphtalen tham gia từng phản ứng thế dễ dàng hơn benzen và thường ưu tiên thế nguyên tử H ở vị trí Cα (vị trí C số 1 của vòng), có phản ứng cộng H2/(Ni, to) tạo C10H12 (trtralin) hoặc C10H18 (đecanlin).

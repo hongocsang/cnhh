@@ -1,0 +1,37 @@
+Bài 33: Ankan.
+
+1. Khái niệm
+- Ankan là hidro no mạch hở: CnH2n+2 (n ≥1)
+- Xicloankan là hidrocacbon no mạch vòng CTTQ của monoxicloankan CnH2n (n≥3)
+
+2. Đồng đẳng, danh pháp
+- Đồng phân cấu tạo: Ankan từ C4H10 trở đi có công thức đồng phân cấu tạo mạch cacbon (mạch không phân nhánh và phân nhánh)
+Danh pháp ankan có mạch nhánh:
+- Số chỉ nhánh- tên nhánh + tên mạch chính + an
+- Mạch chính là mạch cacbon dài nhất, chứa nhiều nhánh hơn.
+- Đánh số thứ tự cacbon mạch chính từ C đầu gần nhánh.
+Nếu có nhiều nhánh giống nhau thì dùng tiền tố chỉ độ bội (theo số đếm): đi, tri, tera…Khi có nhiều nhánh thứ tự gọi tên nhánh theo vần chữ cái.
+- Gốc hidrocacbon là phần còn lại của phân tử hidrocacbon sau khi bớt đi một số nguyên tử hidro nhưng vẫn còn tồn tại trong phân tử ở trạng thái liên kết và không mang electron tự do như gốc tự do.
+- CTTQ nhóm ankyl: CnH2n+2
+- Bậc của một nguyên tử cacbon trong phân tử ankan bằng số nguyên tử cacbon liên kết trực tiếp với nó.
+3. Tính chất vật lí: ở điều kiện thường ankan từ C1 → C4 ở trạng thái khí, từ C5 → C17 trở đi ở trạng thái lỏng, từ C18 trở lên ở dạng rắn.
+Nhiệt độ nóng chảy, nhiệt độ sôi và khối lượng riêng của ankan nói chung tăng theo chiều tăng của phân tử khối.
+Ankan là những chất không màu, không tan trong nước, nhẹ hơn nước nhưng tan nhiều trong dung môi hữu cơ.
+
+4. Phản ứng hóa học
+a) Phản ứng thế:
+- Nguyên tử H bị thế bằng halogen tạo dẫ xuất halogen:
+CnH2n+2  + x Cl2 → CnH2n+2-xClx + x HCl (x ≤ 2n+2)
+
+- Đối với ankan phân tử có các nguyên tử C có bậc khác nhau, sản phẩm chính thế H ở C bậc cao hơn.
+
+b) Phản ứng tách:
++ Tách hidro
++ Bẻ gãy các liên kết C-C:
+
+c) Phản ứng oxi hóa
+- Ankan cháy tạo ra nhiều nhiệt
+
+5. Điều chế
+- Trong công nghiệp, metan và các đồng đẳng được lấy từ khí thiên nhiên, khí mỏ dầu và dầu mỏ.
+- Trong phòng thí nghiệm, ankan được điều chế bằng cách nung muối natri của axit cacboxylic với vôi tôi xút.

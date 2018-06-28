@@ -1,0 +1,26 @@
+Bài 17: Phản ứng oxi hóa - khử
+
+I- ĐỊNH NGHĨA PHẢN ỨNG OXI HOÁ - KHỬ VÀ XÁC ĐINH SỐ OXI HOÁ
+1. Định nghĩa phản ứng oxi hoá - khử
+Phản ứng oxi hoá - khử là phản ứng hoá học trong đó có  sự thay đổi số oxi hoá của một số nguyên tô' hay phản ứng oxi hoá - khử là phản ứng trong dó có sự chuyến electron giữa các chất phản ứng.
+
+2. Xác định số oxi hoá trong hợp chất
+Chú ý : Người ta ghi sô oxi hoá ở phía trên nguyên tử của nguyên tố. Ghi dấu trước, số sau.
+
+II. QUAN HỆ GIỮA HOÁ TRỊ VÀ SỐ OXI HOÁ CỦA NGUYÊN TỐ
+Như ta đã biết một số nguyên tố có nhiều hoá trị khác nhau, vậy số oxi hoá và hoá trị của nguyên tố có liên quan gì với nhau không ?
+Hoá trị gắn liền với liên kết hoá học. Số oxi hoá gắn liền với sự chuyển dịch electron nên nhiều khi số oxi hoá không trùng với hoá trị.
+Trong nhiều trường hợp, đặc biệt là các hợp chất của kim loại, giá trị tuyệt đối của số oxi hoá và hoá trị thường trùng nhau.
+
+III- CHẤT KHỬ, CHẤT OXI HOÁ, SỰ OXI HOÁ, SỰ KHỬ
+Chất khử là chất nhường electron hay là chất có số oxi hoá tăng sau phản ứng.
+Chất oxi hoá là chất nhận electron hay chất có số oxi hoá giảm sau phản ứng.
+Sự oxi hoá của một chất là làm cho chất đó nhường electron hay làm tăng số oxi hoá chất dó.
+Sự khử của một chất là làm cho chất đó nhận electron hay làm giảm số oxi hoá chất đó.
+Sự nhường electron chỉ có thể xảy ra khi có sự nhận electron. Vì vậy sự oxi hoá và sự khử bao giờ cũng diễn ra đồng thời trong một phản ứng.
+
+IV- LẬP PHƯƠNG TRÌNH PHẢN ỨNG 0XI HOÁ - KHỬ
+Để lập phương trình phản ứng oxi hoá - khử theo phương pháp tháng bằng electron, ta thực hiện các bước sau đây :
+Bước 1 : Ghi số oxi hoá của những nguyên tố có số oxi hoá thay đổi.
+Bước 2 : Viết quá  trình oxi hoá và quá trình khử, cân bằng mỗi quá trình.
+Bước 3 : Tìm hệ số thích hợp sao cho tổng số electron do chất khử nhường bằng tổng số electron mà chất oxi hoá nhận.

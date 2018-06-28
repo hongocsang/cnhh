@@ -1,0 +1,95 @@
+﻿
+                    Bài 2: Chất
+
+1. Chất và tính chất của chất :
+    -chất có ở khắp nơi, ở đâu có vật thể là ở đó có chất.
+    -Mỗi chất có những tính chất vật lí và hóa học nhất định.
+
+2. Nước tự nhiên và nước cất:
+    -Nước tự nhiên gồm nhiều vật chất trộn lẫn, là một hỗn hợp.
+    -nước cất là nước tinh khiết.
+
+3. Tách chất ra khỏi hỗn hợp :
+    -Dựa vào sự khác nhau về tính chất vật lí có thể tách một chất ra khỏi hỗn hợp.
+----------------------------------------------------------------
+                    Bài 4: Nguyên Tử
+
+1. Nguyên tử :
+    -Là hạt vô cùng nhỏ, trung hòa về điện.
+    -Nguyên tử gồm hạt nhân mang điện tích dương và vỏ tạo bởi các electron mang điện tích âm.
+
+2. Hạt nhân nguyên tử :
+    -Được tạo ra bởi các proton và nơtron. Trong mỗi nguyên tử, số proton (p, +) bằng số electron (e, -).
+    -Tức là :
+
+                Số p  =  số e
+
+3. Lớp electron :
+    -electron luôn chuyển động quanh hạt nhân và sắp xếp thành từng lớp.
+----------------------------------------------------------------
+                    Bài 5: Nguyên Tố Hoá Học
+
+1. Định nghĩa : nguyên tố hóa học là những nguyên tử cùng loại, có cùng số proton trong hạt nhân.
+
+2. Kí hiệu hóa học : biểu diễn nguyên tố là biểu diễn một nguyên tử của nguyên tố đó.
+
+3. Đơn vị cacbon : theo quy ước, người ta lấy 1/12 khối lượng của một nguyên tử C làm đơn vị khối lượng nguyên tử, gọi là đơn vị cacbon.
+
+4. Nguyên tử khối : là khối lượng của nguyên tử tính bằng đơn vị cacbon.
+
+    Mỗi nguyên tố có một nguyên tử khối lượng riêng biệt.
+
+5. Oxi : là nguyên tố chiếm gần nửa khối lượng vỏ trái đất.
+----------------------------------------------------------------
+                    Bài 6: Đơn Chất và Hợp Chất-Phân Tử
+
+1. Đơn chất:
+    -Là những chất tạo nên từ một nguyên tố hóa học.
+
+2. Hợp chất:
+    -Là những chất tạo nên từ hai nguyên tố hóa học trở lên.
+
+3. Phân tử:
+    -Là những hạt gồm một số nguyên tử liên kết với nhau và thực hiện đầy đủ tính chất hóa học của chất.
+
+4. Phân tử khối:
+    -Là khối lượng phân tử tính bằng đơn vị cacbon; bằng tổng nguyên tử khối của các nguyên tử trong phân tử.
+
+5. Mỗi mẫu chất là tập hợp vô cùng lớn những hạt là phân tử hay nguyên tử.
+    - Tùy điều kiện, một chất có thể thấy ở ba trạng thái: rắn lỏng , khí (hay hơi), ở trạng thái khí các hạt rất xa nhau.
+----------------------------------------------------------------
+                    Bài 9: Công Thức Hoá Học
+
+1. Các vật thể: (tự nhiên cũng như nhân tạo): đều được tạo nên từ chất (hay  từ những nguyên tố hóa hoc).
+
+2. Chất gồm có hai loại:
+-Đơn chất (tạo nên từ một nguyên tố).
+-Hợp chất (tạo nên tử hai hay nhiều nguyên tố trở lên).
+
+3. Đơn chất có hai loại:
+-Đơn chất kim loại.
+-Đơn chất phi kim.
+
+4. Hợp chất cũng chia làm hai loại:
+-Hợp chất vô cơ.
+-Hợp chất hữu cơ.
+----------------------------------------------------------------
+                    Bài 10: Hoá Trị
+
+1. Hóa trị của nguyên tố (hay nhóm nguyên tử):
+-Là con số biểu thị khả năng liên kết của nguyên tử (hay nhóm nguyên tử)
+-Được xác định theo hóa trị của H được chọn làm đơn vị và hóa trị của O là hai đơn vị.
+
+2. Quy tắc hóa trị x. a = y. b
+
+Biết x, y và a (hoặc b) thì tính được b (hoặc a)
+Biết a , b thì tìm được x, y để lập công thức hóa học. chuyển thành tỉ lệ:
+
+                           x     b     b'
+                           -  =  -  =  -
+                           y     a     a'
+
+Lấy x = b hay b’ và y = a’ ( nếu a’, b’ là những số đơn giản hơn so với a, b).
+
+
+

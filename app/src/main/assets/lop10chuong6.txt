@@ -1,0 +1,54 @@
+Bài 29: Oxi - ozon
+
+A - OXI
+I -  Vị trí cấu tạo
+Nguyên tố oxi có số hiệu nguyên tử là 8 , thuộc nhóm VIA, chu kỳ 2 của bảng tuần hoàn các nguyên tố hóa học.
+Nguyên tử oxi có cấu hình electron la 1s22s2sp4, lớp ngoài cùng có 6e
+trong điều kiện bình thường, phân tử oxi có hai nguyên tử liên kết với nhau bằng liên kết cộng hóa trị không cực, có thể viết công thức cấu tạo phân tử của oxi là O=O
+
+II. Tính chất vật lý
+- Oxi là chất khí, không màu
+- dO2/kk = 32/29 = 1,1 => Oxi nặng hơn không khí
+- Dưới áp suất khí quyển, oxi hoá lỏng ở -1830C; oxi lỏng bị nam châm hút
+- Ít tan trong nước
+- Duy trì sự sống và sự cháy( cho que đốm còn tàn đỏ vào lọ khí oxi thì que đốm bùng cháy)
+
+III. Tính chất hóa học
+Cấu hình e? Độ âm điện của oxi? so sánh với các nguyên tố lân cận? Từ đó cho biết tính chất hoá học của oxi?
+- Oxi có độ âm điện lớn (3,44); chỉ kém flo (3,98); có 6 electron lớp ngoài cùng, có khuynh hướng nhận 2e => Oxi là nguyên tố phi kim hoạt động, có tính oxi hoá mạnh.
+- Trong các hợp chất (trừ hợp chất với flo, và hợp chất peoxit), nguyên tố oxi có số oxi hoá -2.
+
+1. Tác dụng kim loại ( trừ Au, Pt).
+2. Tác dụng phi kim ( trừ halogen).
+3. Tác dụng với hợp chất.
+
+IV. ỨNG DỤNG CỦA OXI
+- Mỗi người cần từ 20-30 m3 không khí/1 ngày để thở
+- Ngoài ra, hàng năm trên thế giới sản xuất hàng chục triệu tấn oxi để đáp ứng nhu cầu đời sống và sản xuất
+
+V. ĐIỀU CHẾ
+1. Trong phòng thí nghiệm
+Nguyên tắc: Phân huỷ các hợp chất chứa oxi, kém bền với nhiệt: KMnO4, KClO3, H2O2,…
+
+2. Trong công nghiệp
+a) Từ không khí: Chưng cất phân đoạn không khí lỏng, đến - 1830C thu oxi
+b) Từ nước: điện phân nước ( có pha thêm dung dịch NaOH, dung dịch H2SO4 để tăng thêm tính dẫn điện của nước)
+
+B. OZON
+I. Tính chất
+- Ozon là một dạng hình thù của oxi. Khí ozon màu xanh nhạt, mùi đặc trưng, hóa lỏng ở nhiệt độ -112 độ c . Khí ozon tan trong nước nhiều hơn với khí oxi
+- Ozon là một trong số những chất có tính oxi hóa rất mạnh và mạnh hơn oxi.
+- Ozon oxi hóa hầu hết các kim loại, nhiều phi kim và nhiều hợp chất vô cơ, hữu cơ.
+Ở điều kiện thường, oxi không oxi hóa được bạc, nhưng ozon oxi hóa được bạc thành bạc oxit.
+
+II. OZON TRONG TỰ NHIÊN
+- Ozon trong tự nhiên được tạo thành trong khí quyển khi có sự phóng điện trên mặt đất,ozon được sinh ra do sự oxi hóa một số hợp chất hữu cơ
+- Ozon tập trung nhiều ở lớp khí quyển trên cao, cách mặt đất 20 - 30 km.
+Tầng ozon được hình thành là do tia tử ngoại của mặt trời chuyển hóa các phần tử oxi thành ozon.
+
+III. ỨNG DỤNG
+Không khí chứa một lượng rất nhỏ ozon có tác dụng làm cho không kí trong lành. Nhưng với một lượng lớn hơn sẽ có hại cho con người
+- Những ứng dụng của ozon là dựa vào tính oxi hóa mạnh của nó :
++ Trong công nghiệp, người ta dùng ozon để tẩy trắng tinh bột,dầu ăn và nhiều vật phẩm khác...
++ Trong y học , ozon được dùng để chữa sâu răng
++ Trong đời sống, người ta dùng ozon để sát trùng nước sinh hoạt

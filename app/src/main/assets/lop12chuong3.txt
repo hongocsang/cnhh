@@ -1,0 +1,81 @@
+Bài 9: Amin.
+I. ĐỊNH NGHĨA
+- Các định nghĩa về amin:
+ + Amin là sản phẩm thu được khi thay thế nguyên tử H trong phân tử NH3 bằng các gốc hiđrocacbon.
+ (chỉ đúng với amin đơn chức): Amoniac
+ + Amin là sản phẩm thu được khi thay thế nguyên tử H trong hidrocacbon bằng nhóm -NH2 (chỉ đúng với amin bậc 1).
+ + Amin là hợp chất hữu cơ trong phân tử chỉ chứa 3 nguyên tố: C, H và N.
+
+- Bậc của amin là số gốc hiđrocacbon liên kết với nguyên tử N.
+- Công thức tổng quát của amin:
+CxHyNz (x, y, z thuộc N*; y ≤ 2x + 2 + z; y chẵn nếu z chẵn; y lẻ nếu z lẻ).
+hoặc CnH2n+2-2k+tNt (n thuộc N*; k thuộc N; t thuộc N*).
+Số liên kết pi + số vòng trong phân tử amin = (2x + 2 + t - y)/2.
+Nếu là amin bậc I thì công thức tổng quát có thể đặt là: CnH2n+2-­2k-t(NH2)t..
+
+II. DANH PHÁP
+1. Tên thay thế
+Tên amin = Tên của hiđrocacbon tương ứng + Số thứ tự của C chứa nhóm NH2 + amin
+
+2. Tên gốc chức
+Tên amin = Gốc hiđrocacbon + amin
+
+3. Tên thường
+Anilin…
+
+III. TÍNH CHẤT VẬT LÍ
+- Các amin có khả năng tan tốt trong nước. Độ tan trong nước giảm khi số nguyên tử C tăng.
+- Giữa amin và nước có liên kết Hiđro liên phân tử
+- Metylamin, đimetylamin, trimetylamin và etylamin là chất khí, có mùi khai; các amin còn lại đều tồn tại ở trạng thái lỏng, rắn.
+ Anilin: lỏng, không màu, độc ít tan trong nước dễ bị oxi hóa chuyển thành màu nâu đen.
+
+IV. TÍNH CHẤT HOÁ HỌC
+1. Tính bazơ
+a. Giải thích tính bazơ của các amin
+   Do nguyên tử N trong phân tử amin còn cặp e chưa sử dụng có khả năng nhận proton.
+
+b. So sánh tính bazơ của các amin
+- Nếu nguyên tử N trong phân tử amin được gắn với gốc đẩy e (gốc no: ankyl) thì tính bazơ của amin mạnh hơn so với tính bazơ của NH3.
+Những amin này làm cho quỳ tím chuyển thành màu xanh.
+- Nếu nguyên tử N trong phân tử amin gắn với các gốc hút e (gốc không no, gốc thơm) thì tính bazơ của amin yếu hơn so với tính bazơ của NH3.
+Những amin này không làm xanh quỳ tím.
+- Amin có càng nhiều gốc đẩy e thì tính bazơ càng mạnh, amin có càng nhiều gốc hút e thì tính bazơ càng yếu.
+
+2. Các phản ứng thể hiện tính bazơ
+a. Phản ứng với dung dịch axit
+CH3NH2 + H2SO4 → CH3NH3HSO4
+2CH3NH2 + H2SO4 → (CH3NH3)2SO4
+CH3NH2 + CH3COOH → CH3NH3OOCCH3
+
+b. Phản ứng với dung dịch muối tạo bazơ không tan
+2CH3NH2 + MgCl2 + 2H2O → Mg(OH)2 + 2CH3NH3Cl
+
+3. Phản ứng nhận biết bậc của amin
+- Nếu là amin bậc I khi phản ứng với HNO2 tạo khí thoát ra:
+RNH2 + HNO2 → ROH + N2 + H2O
+
+Anilin phản ứng tạo muối điazoni ở 0 → 50C:
+C6H5NH2 + HNO2 → C6H5N2+Cl- + 2H2O
+- Nếu là amin bậc II thì tạo hợp chất nitrozo màu vàng nổi trên mặt nước:
+RNHR’ + HNO2 → RN(NO)R’ + H2O
+- Amin bậc III không có phản ứng này.
+
+4. Phản ứng nâng bậc amin
+RNH2 + R’I → RNHR’ + HI
+RNHR’ + R’’I → RNR’R’’ + HI
+
+5. Phản ứng riêng của anilin
+- Anilin là amin thơm nên không làm đổi màu quỳ tím thành xanh.
+- Anilin tạo kết tủa trắng với dung dịch nước Brom:
+→ Phản ứng này được dùng để nhận biết anilin.
+
+V. ĐIỀU CHẾ
+1. Hiđro hóa hợp chất nitro
+C6H5NO2 + 6H → C6H5NH2 + 2H2O (Fe/HCl)
+
+2. Dùng kiềm mạnh đẩy amin ra khỏi muối amoni
+C6H5NH3Cl + NaOH → C6H5NH2 + NaCl + H2O
+→ Phản ứng này dùng để tách anilin ra khỏi hỗn hợp.
+
+3. Thay thế nguyên tử H của NH3  (phản ứng nâng bậc)
+NH3 + RI → R - NH2 + HI

@@ -1,0 +1,299 @@
+Bài 1: Tính chất hóa học của oxit. Khái quát về sự phân loại oxit.
+
+1. Oxit bazơ: Oxit bazơ có những tính chất hóa học nào ?
+
+a) Tác dụng với nước: Một số oxit bazơ tác dụng với nước tạo thành dung dịch bazơ (kiềm).
+
+Những oxit bazơ tác dụng với nước và do đó cũng tan được trong nước là:
+Na2O, K2O, CaO, BaO, Li2O, Rb2O, Cs2O, SrO.
+
+b) Tác dụng với axit: Oxit bazơ + axit → muối + nước
+
+c) Tác dụng với oxit axit: Một số oxit bazơ, là những oxit bazơ tan trong nước tác dụng với oxit axit tạo thành muối.
+
+2. Oxit axit: oxit axit có những tính chất hóa học nào ?
+
+a) Tác dụng với nước: Nhiều oxit axit tác dụng với nước tạo thành dung dịch axit.
+Những oxit axit tác dụng được với nước và do đó cũng tan trong nước.
+
+b) Tác dụng với dung dịch bazơ: Oxit axit + dd bazơ → muối + nước.
+
+c) Tác dụng với oxit bazơ: Oxit axit tác dụng với một số oxit bazơ (tan) tạo thành muối.
+
+3. Oxit lưỡng tính: Một số oxit vừa tác dụng dung dịch axit, vừa tác dụng với dung dịc bazơ, gọi là oxit lưỡng tính.
+
+4. Oxit trung tính (hay là oxit không tạo muối): Một số oxit không tác dụng với axit, dung dịch, bazơ, nước, gọi là oxit trung tính như: NO, N2O, CO,…
+
+II. Khái quát về sự phân loại oxit
+
+-Căn cứ vào tính chất hóa học của oxit, người ta phân loại oxit thành 4 loại như sau:
+    +Oxit bazơ là những oxit tác dụng với dung dịch axit tạo thành muối và nước.
+    +Oxit axit là những oxit tác dụng với dung dich bazơ tạo thành muối và nước.
+    +Oxit lưỡng tính là những oxit tác dụng với dung dịch axit và tác dụng với dung dịch bazơ tạo thành muối và nước.
+    +Oxit trung tính hay còn gọi là oxit không tạo muối là những oxit không tác dung với axit, bazơ, nước.
+----------------------------------------------------------------
+Bài 2: Một số oxit quan trọng.
+I. CANXI OXIT
+1. Tính chất hóa học
+
+CaO (vối sống) là một oxit bazơ tan trong nước và phản ứng với nước, có những tính chất hóa học sau:
+a) Tác dụng với nước:
+
+Phản ứng của canxi oxit với nước gọi là phản ứng tôi vôi; chất Ca(OH)2 tạo thành gọi là vôi tôi, là chất rắn màu trắng, ít tan trong nước, phần tan tạo thành dung dịch bazơ còn gọi là nước vôi trong.
+
+b) Tác dụng với axit tạo thành muối và nước.
+
+c) Tác dụng với oxit axit tạo thành muối.
+
+2. Ứng dụng của canxi oxit
+
+CaO có những ứng dụng chủ yếu sau đây:
+
+- Phần lớn canxi oxit được dùng trong công nghiệp luyện kim và làm nguyên liệu cho công nghiệp hóa học.
+
+- Canxi oxit còn được dùng để khử chua đất trồng trọt, xử lí nước thải công nghiệp, sát trùng, diệt nấm, khử độc môi trường,…
+
+- Canxi oxit có tính hút ẩm mạnh nên được dùng để làm khô nhiều chất.
+
+3. Sản xuất canxi oxit trong công nghiệp
+
+Nguyên liệu để sản xuất canxi oxit là đá vôi (chứa CaCO3). Chất đốt là than đá, củi, dầu, khí tự nhiên,…
+
+Các phản ứng hóa học xảy ra khi nung vôi:
+
+- Than cháy sinh ra khí CO2 và tỏa nhiều nhiệt:  C + O2 → CO2
+
+- Nhiệt sinh ra phân hủy đá vôi ở khoảng trên 9000C: CaCO3 → CaO + CO2
+
+II. Lưu huỳnh đioxit
+
+1. Tính chất vật lí
+
+Lưu huỳnh đioxit là chất khí không màu, mùi hắc, độc (gây ho, viêm đường hô hấp…), nặng hơn không khí.
+
+2. Tính chất hóa học:
+
+Lưu huỳnh đioxit là một oxit axit tan trong nước và phản ứng với nước, có những tính chất hóa học sau:
+
+a) Tác dụng với nước tạo thành dung dịch axit:
+SO2 là chất gây ô nhiễm không khí, là một trong các chất gây ra mưa axit.
+
+b) Tác dụng với dung dịch bazơ tạo thành muối và nước:
+Khi SO2 tác dụng với dung dịch bazơ có thể tạo muối trung hòa và muối axit.
+
+c) Tác dụng với oxit bazơ (tan) tạo thành muối:
+
+3. Ứng dụng của lưu huỳnh đioxit
+
+- Phần lớn SO2 dùng để sản xuất axit sunfuric H2SO4.
+- Dùng làm chất tẩy trắng bột gỗ trong sản xuất giấy, đường,…
+- Dùng làm chất diệt nấm mốc,…
+
+4. Điều chế lưu huỳnh đioxit
+
+a) Trong phòng thí nghiệm: Cho muối sunfit tác dụng với axit mạnh như HCl, H2SO4,…
+Khí SO2 được thu bằng phương pháp đẩy không khí.
+
+b) Trong công nghiệp: Đốt lưu huỳnh hoặc quặng pirit sắt FeS2 trong không khí:
+----------------------------------------------------------------
+Bài 3: Tính chất hóa học của axit.
+
+I. Tính chất hóa học của axit:
+
+    1. Axit làm đổi màu chất chỉ thị: Dung dịch axit làm đổi màu quỳ tím thành đỏ.
+
+    2. Axit tác dụng với kim loại
+
+        Dung dịch axit tác dụng được với một số kim loại tạo thành muối và giải phóng khí hiđro
+        Những kim loại không tác dụng với HCl, H2SO4 loãng như Cu, Ag, Hg,…
+
+    Chú ý: Axit HNO3 và H2SO4 đặc tác dụng được với nhiều kim loại nhưng không giải phóng hiđro.
+
+    3. Axit tác dụng với bazơ tạo thành muối và nước
+
+    4. Axit tác dụng với oxit bazơ tạo thành muối và nước.
+        Ngoài ra, axit còn tác dụng với muối.
+
+II. Axit mạnh và axit yếu
+
+    Dựa vào khả năng phản ứng, axit được chia làm 2 loại:
+
+        + Axit mạnh như HCl, H2SO4, HNO3,…
+
+        + Axit yếu như H2S, H2CO3,…
+----------------------------------------------------------------
+Bài 4: Một số axit quan trọng.
+
+A. Axit clohiđric HCl
+I. Tính chất
+1. Tính chất vật lí: Khi hòa tan khí HCl vào nước ta thu được dung dịch HCl
+
+Dung dịch HCl đậm đặc là dung dịch bão hòa hiđroclorua, có nồng độ khoảng 37%, từ đây ta có thể pha chế thành dung dịch HCl có nồng độ khác nhau.
+
+2. Tính chất hóa học: HCl là một axit mạnh, có đầy đủ tính chất của một axit mạnh
+
+a) làm đổi màu quỳ tím thành đỏ.
+b) tác dụng với nhiều kim loại (Mg, Al, Zn, Fe,...) tạo thành muối clorua và giải phóng khí hiđro
+c) Tác dụng với bazơ tạo thành muối và nước.
+d) tác dụng với oxit bazơ tạo thành muối và nước.
+e) tác dụng với một số muối.
+
+II. Ứng dụng.
+HCl dùng để:
+- Điều chế các muối clorua.
+- Làm sạch bề mặt kim loại trước khi hàn.
+- Tẩy gỉ kim loại trước khi sơn, tráng, mạ kim loại.
+- Dùng trong chế biến thực phẩm, dược phẩm
+
+B. Axit sunfuric H2SO4
+I. Tính chất vật lí
+Axit H2SO4 là chất lỏng sánh, không màu, nặng gấp hai lần nước, không bay hơi, tan dễ dàng trong nước và tỏa nhiều nhiệt
+
+II. Tính chất hóa học
+Axit H2SO4 loãng và H2SO4 đặc có những tính chất hóa học khác nhau.
+
+1. Tính chất hóa học của axit H2SO4 loãng: H2SO4 loãng có đầy đủ tính chất của một axit mạnh.
+a) làm đổi màu quỳ tím thành đỏ
+b) tác dụng với nhiều kim loại (Mg, Al, Zn, Fe,...) tạo thành muối sunfat và giải phóng khí hiđro
+c) tác dụng với bazơ tạo thành muối sunfat và nước.
+d) tác dụng với oxit bazơ tạo thành muối sunfat và nước.
+e) tác dụng với một số muối
+
+2. Axit H2SO4 đặc có tính chất hóa học riêng;
+a) tác dụng với kim loại
+Axit H2SO4 đặc tác dụng với nhiều kim loại nhưng không giải phóng khí hiđro. Khí nóng tạo thành muối sunfat (ứng với hóa trị cao của kim loại nếu kim loại có nhiều hóa trị) và khí sunfurơ
+
+b) Tính háo nước. Thí dụ khi cho axit H2SO4 vào đường, đường sẽ hóa thành than.
+
+III. Ứng dụng
+
+Hàng năm, thế giới sản xuất gần 200 triệu tấn axit H2SO4 . Axit H2SO4 là nguyên liệu của nhiều ngành sản xuất hóa học như sản xuất phân bón, phẩm nhuộm, chế biến dầu  mỏ,..
+
+IV. Sản xuất axit H2SO4
+Trong công nghiệp, axit sunfuric được sản xuất bằng phương pháp tiếp xúc. Nguyên liệu là lưu huỳnh (hoặc quặng pirit sắt), không khí và nước.
+Quá trình sản xuất axit H2SO4 gồm 3 công đoạn sau:
+
+- Sản xuất lưu huỳnh đi oxit bằng cách đốt lưu huỳnh hoặc pirit sắt trong không khí;
+- Sản xuất lưu huỳnh trioxit bằng cách oxi hóa SO2, có xúc tác là V2O5 ở 4500C.
+- Sản xuất axit H2SO4 bằng cách cho SO3 tác dụng với nước.
+
+V. Nhận biết axit H2SO4 và muối sunfat
+- Để nhận ra axit H2SO4 trong các axit và nhận ra muối sunfat trong các muối, ta dùng thuốc thử là dung dịch muối bari,
+- Khi cho dung dịch muối bari vào dung dịch H2SO4 hoặc muối sunfat, thấy có chất kết tủa màu trắng, không tan trong nước và trong axit là BaSO4 xuất hiện.
+----------------------------------------------------------------
+Bài 7: Tính chất hóa học của bazơ
+
+I. Phân loại bazơ
+Dựa vào tính tan của bazơ trong nước, người ta chia tính baz ơ thành 2 loại:
+- Bazơ tan được trong nước tạo thành dung dịch bazơ (gọi là kiềm):
+NaOH, KOH, Ba(OH)2, Ca(OH)2, LiOH, RbOH, CsOH, Sr(OH)2.
+
+- Những bazơ không tan:
+Cu(OH)2, Mg(OH)2, Fe(OH)3, Al(OH)3…
+
+II. Tính chất hóa học của bazơ
+1) Tác dụng với chất chỉ thị màu.
+- Dung dịch bazơ làm quỳ tím đổi thành màu xanh.
+- Dung dịch bazơ làm phenolphthalein không màu đổi sang màu đỏ.
+
+2) Dung dịch bazơ tác dụng với oxit axit tạo thành muối và nước.
+3) Bazơ (tan và không tan) tác dụng với axit tạo thành muối và nước.
+4) Dung dịch bazơ tác dụng với nhiều dung dịch muối tạo thành muối mới và bazơ  mới.
+5) Bazơ không tan bị nhiệt phân hủy thành oxit và nước.
+----------------------------------------------------------------
+Bài 8: Một số bazơ quan trọng.
+
+A. NATRI HIĐROXIT NaOH
+I. Tính chất vật lí
+Natri hiđroxit là chất rắn không màu, hút ẩm mạnh, tan nhiều trong nước và tỏa nhiệt.
+Dung dịch NaOH có tính nhờn, làm bục vải giấy và ăn mòn da. Khi sử dụng NaOH phải hết sức cẩn thận.
+
+II. Tính chất hóa học
+Natri hiđroxit có đầy đủ tính chất của một bazơ tan (kiềm).
+
+1. Làm đổi màu chất chỉ thị.
+Dung dịch NaOH làm đổi màu qùy tím thành xanh, dung dịch phenolphatalein không màu thành màu đỏ.
+
+2. Tác dụng với axit tạo thành muối và nước (phản ứng trung hòa)
+3. Tác dụng với axit tạo thành muối và nước (phản ứng trung hòa)
+(khi NaOH tác dụng với CO2, SO2 còn có thể tạo ra muối axit NaHCO3, NHSO3)
+4. Tác dụng với dung dịch muối.
+
+III. Ứng dụng
+Natri hiđroxit có nhiều ứng dụng trong đời sống và trong sản xuất. Nó được dùng trong:
+- Sản xuất xà phòng, chất tẩy rửa, bột giặt.
+- Sản xuất giấy, tơ nhân tạo, trong chế biến dầu mỏ.
+- Sản xuất nhôm (làm sạch quặng nhôm trước khi sản xuất).
+
+IV. Sản xuất Natri hiđroxit
+Trong công nghiệp, NaOH được sản xuất bằng phương pháp điện phân dung dịch NaCl bão hòa.
+Thùng điện phân có màng ngăn giữa cực âm và cực dương.
+
+B. CANXI HIĐROXIT Ca(OH)2
+1. Tính chất dung dịch canxi hiđroxit
+Để có dung dịch canxi hiđroxit (hay nước vôi trong), ta hòa tan một ít vôi tôi Ca(OH)2 vào nước được vôi nước (hay vôi sữa). Lọc vôi nước, chất lỏng thu được là dung dịch Ca(OH)2.
+
+2. Tính chất hóa học
+Dung dịch Canxi hiđroxit: Ca(OH)2 có những tính chất của một bazơ tan.
+
+a) Làm đổi màu qùy tím thành xanh, dung dịch phenolphatalein không màu thành màu đỏ.
+b) Tác dụng với axit, tạo thành muối và nước (phản ứng trung hòa)
+c) Tác dụng với axit tạo thành muối và nước (phản ứng trung hòa)
+d) Tác dụng với dung dịch muối.
+
+III.Ứng dụng
+Canxi hiđroxit được dùng:
+- Làm vật liệu trong xây dựng.
+- Khử chua đất trồng trọt.
+- Khử độc các chất thải công nghiệp, diệt trùng chất thải sinh hoạt và xác chết động vật…
+
+III. Thang PH biểu thị độ axit hoặc bazơ của dung dịch
+  PH = 7: Dung dịch trung tính (nước cất có PH = 7)
+  PH < 7: Dung dịch có tính axit, PH càng nhỏ độ axit càng lớn.
+  PH > 7: Dung dịch có tính bazơ, PH càng lớn độ axit càng lớn
+----------------------------------------------------------------
+Bài 9: Tính chất hóa học của muối.
+
+I. Tính chất hóa học của muối
+1. Tác dụng với kim loại
+Dung dịch muối có thể tác dụng với kim loại tạo thành muối mới và kim loại mới.
+
+2. Tác dụng với axit
+Muối có thể tác dụng được với axit tạo thành muối mới và axit mới.
+
+3. Tác dụng với dung dịch muỗi
+Hai dung dịch muối có thể tác dụng với nhau tạo thành hai muối mới.
+
+4. Tác dụng với dung dịch bazơ
+Dung dịch bazơ có thể tác dụng với dung dịch bazơ tạo thành muối mới và bazơ mới.
+
+5. Phản ứng phân hủy muối
+Nhiều muối bị phân hủy ở nhiệt độ cao như: KClO3, KMnO4, CaCO3,…
+
+II. Phản ứng trao đổi trong dung dịch
+1. Định nghĩa: Phản ứng trao đổi là phản ứng hóa học, trong đó hai hợp chất tham gia phản ứng trao đổi với nhay những thành phần cấu tạo của chúng để tạo ra những hợp chất mới.
+2. Điều kiện xảy ra phản ứng trao đổi
+Phản ứng trao đổi trong dung dịch của các chất chỉ xảy ra nếu sản phẩm tạo thành có chất không tan hoặc chất khí.
+Chú ý: phản ứng trung hòa cũng thuộc loại phản ứng trao đổi và luôn xảy ra.
+----------------------------------------------------------------
+Bài 10: Một số muối quan trọng.
+
+I. MUỐI NATRI CLORUA NaCl
+1. Trạng thái tự nhiên
+Natri clorua có trong nước biển. Cho nước biển bay hơi, ta được chất rắn là hỗn hợp của nhiều muối, thành phần chính là NaCl (trong 1m3 nước biển có hòa tan chừng 27kg NaCl, 5kg MgCl, 1kg CaSO4 và một khối lượng nhỏ những muối khác).
+Ngoài ra, trong long đất cũng chứa một khối lượng muối natri clorua kết tinh gọi là muối mỏ.
+Những mỏ muối có nguồn gốc từ những hồ nước mặn đã cạn đi từ hàng triệu năm.
+
+2. Cách khai thác
+* Ở những nơi có biển hoặc hồ nước mặn, người ta khai thác NaCl từ nước mặn trên. Cho nước mặn bay hơi từ từ, thu được muối kết tinh.
+* Ở những nơi có mỏ muối, người ta đào hầm hoặc giếng sâu đến mỏ muối để lấy muối lên.
+Muối mỏ sau khi khai thác, được nghiền nhỏ và tinh chế để có muối sạch.
+
+3. Ứng dụng
+Muối NaCl có rất nhiều ứng dụng trong đời sống và sản xuất, nó được dùng để:
+- Làm gia vị và bảo quản thực phẩm. Muối iot là muối ăn NaCl có trộn them một ít KIO3 + KI
+- Làm nguyên liệu để sản xuất: Na, NaOH, H2, Cl2, Na2CO3, nước gia–ven NaClO,…
+
+II. KALI NITRAT KNO3
+1. Tính chất: KNO3 là chất rắn, tan nhiều trong nước, khi tan thu nhiệt,
+2. Ứng dụng: KNO3 dừng chế tọ thuốc nổ, làm phân bón, bảo quản thực phẩm trong công nghiệp.

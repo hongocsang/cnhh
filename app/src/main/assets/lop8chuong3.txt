@@ -1,0 +1,65 @@
+                Bài 18: Mol
+
+1. Định nghĩa: Mol là những chất có chứa N (6 . 10^23) nguyên tử hoặc phân tử chất đó.
+
+2. Khối lượng mol: của một chất là khối lượng của N nguyên tử hoặc phân tử chất đó, tính bằng gam, có số trị bằng nguyên tử khối hoặc phân tử khối.
+
+3. Thể tích mol của chất: là thể tích chiếm bởi N phân tử chất đó. Ở điều kiện tiêu chuẩn, thể tích mol của các chất khí đều bằng 22,4 lít.
+----------------------------------------------------------------
+          Bài 19: Chuyển đổi giữa khối lượng, thể tích và lượng chất
+
+1. Công thức chuyển đổi giữa lượng chất (n) và khối lượng chất (m):
+
+        n = m/M (mol) (M là khối lượng mol của chất)
+
+2. Công thức chuyển đổi giữa lượng chất (n) và thể tích của chất khí (V) ở điều kiện tiêu chuẩn
+
+            n =V/22,4 (mol) (V tính theo lít (Ký hiệu là l), một lít = 1000 ml).
+
+- Từ 2 công thức trên ta có thể biến đổi công thức như sau:
+
+    + Tính khối lượng m = n * M
+    + Tính thể tích v = n * 22.4 (l)
+----------------------------------------------------------------
+                Bài 20: Tỉ khối của chất khí
+
+Công thức tính tỉ khối của:
+
+- Khí A đối với khí B: dA/B = M(A) / M(B)
+
+- Khí A đối với không khí: dA/kk = M/29
+----------------------------------------------------------------
+                Bài 21: Tính theo công thức hóa học
+
+1. Biết công thức hóa hoc, tìm thành phần các nguyên tố:
+
+- tìm khối lượng mol của hợp chất.
+
+- Tìm số mol nguyên tử của mỗi nguyên tố trong 1 mol hợp chất
+
+=> Tìm thành phần theo khối lượng của mỗi nguyên tố.
+
+2. Biết thành phần các nguyên tố, tìm công thức hóa học:
+
+Tìm số mol nguyên tử của mỗi nguyên tố trong 1 mol hợp chất → lập công thức hóa học của hợp chất.
+----------------------------------------------------------------
+                Bài 22: Tính theo phương trình hóa học
+
+- Viết phương trình hóa học.
+
+- Chuyển đổi khối lượng chất hoặc thể tích chất khí thành số mol chất
+
+=> Dựa vào phương trình hóa học để tìm số mol chất tham gia hoặc chất tạo thành
+
+- Chuyển đổi số mol chất thành khối lượng (m = n * M) hoặc thể tích khí ở đktc (V = 22,4 * n)
+
+VD:  Biết số mol H20 là 2 mol ,tính khối lượng NaOH ?
+     2NaOH + 2HCl  →  2NaCl + H20
+    a mol   b mol     c mol   d mol
+    x        y          z     2 mol
+
+-Với a = b = c = 2; d = 1 (Lấy số đã cân bằng ở trước chất và hợp chất).
+--Tìm số mol của NaOH bằng cách đi tìm x dùng công thức tam suất có nghĩa là nhân chéo chia ngang.
+  +   x*d=a*2 <==> x = (a*2)/d vậy x = (2*2)/1 = 4 (mol)
+--- m = n * M =  4 * 40 = 160 (gam)
+==> Tương tự với cách tính thể tích

@@ -1,0 +1,17 @@
+Bài 21: Khái quát về nhóm Halogen
+
+Nhóm VII A trong bảng tuần hoàn gồm 5 nguyên tố: Flo, Clo, Brom, Iot và Atatin
+Cả 5 nguyên tố trên đứng ở cuối chu kì, ngay trước khí hiếm. Chúng được gọi là halogen.
+Atatin không gặp trong tự nhiên. Nó điều chế  nhãn tạo bằng các phản ứng hạt nhân.
+Atatin được nghiên cứu trong nhóm các nguyên tố phóng xạ
+
+- Nguyên tử của các halogen đều có 7 electron ở lớp ngoài cùng (ns2 np5) là những phi kim điển hình.
+Khuynh hướng mạch của chúng là kết hợp thêm 1 electron để bão hòa lớp electron ngoài cùng để tạo ra một anion X- rất bền.
+       X + 1e  → X-
+- Bán kính nguyên tử tăng từ flo đến iot.
+- Cấu hình electron và phân tử của các halogen.
+
+- Các halogen có tính oxi hóa mạnh và thực tế cho thấy chúng dễ dàng liên kết ion với các kim loại và oxi hóa các kim loại đến hóa trị cao nhất.
+- Các halogen thể hiện những mức độ oxi hóa khác nhau rõ rệt khi đi từ flo đến iot, mỗi halogen đứng sau nó ra khỏi dung dịch muối halogen.
+- Tính oxi hóa giảm dần từ flo đến iot.
+-Dung dịch HF là axit yếu còn các dung dịch HCl, HBr, HI đều là các axit mạnh.
